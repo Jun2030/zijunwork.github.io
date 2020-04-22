@@ -17,31 +17,27 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>【js7】个简单但棘手的JavaScript面试问题</title>
-    <link href="https://zijunwork.github.io/interview/javascript/f84c093e.html"/>
-    <id>https://zijunwork.github.io/interview/javascript/f84c093e.html</id>
+    <title>Js-7个简单但棘手的JavaScript面试问题</title>
+    <link href="https://zijunwork.github.io/interview/JavaScript/f84c093e.html"/>
+    <id>https://zijunwork.github.io/interview/JavaScript/f84c093e.html</id>
     <published>2020-04-22T02:03:18.000Z</published>
     <updated>2020-04-22T02:03:18.000Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;!-- build time:Wed Apr 22 2020 10:25:43 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;意外全局变量&quot;&gt;&lt;a href=&quot;#意外全局变量&quot; class=&quot;headerlink&quot;
-        
-      
+      &lt;!-- build time:Wed Apr 22 2020 15:52:50 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本次主要记录：意外全局变量、数组的length属性、鹰眼测试、自动分号插入、经典为题：棘手的闭包、浮点数计算、变量提升这几个问题。&lt;/p&gt;
     
     </summary>
     
     
       <category term="面试" scheme="https://zijunwork.github.io/categories/interview/"/>
     
-      <category term="javascript" scheme="https://zijunwork.github.io/categories/interview/javascript/"/>
+      <category term="JavaScript" scheme="https://zijunwork.github.io/categories/interview/JavaScript/"/>
     
     
       <category term="面试" scheme="https://zijunwork.github.io/tags/%E9%9D%A2%E8%AF%95/"/>
+    
+      <category term="JavaScript" scheme="https://zijunwork.github.io/tags/JavaScript/"/>
     
   </entry>
   
@@ -54,7 +50,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Wed Apr 22 2020 10:25:43 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;这是一篇关于hexo一些进阶写法的样式文章。&lt;/p&gt;
+      &lt;!-- build time:Wed Apr 22 2020 15:52:50 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;这是一篇关于hexo一些进阶写法的样式文章。&lt;/p&gt;
     
     </summary>
     
