@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://zijunwork.github.io/"/>
-  <updated>2020-04-21T07:20:09.000Z</updated>
+  <updated>2020-04-22T02:03:18.000Z</updated>
   <id>https://zijunwork.github.io/</id>
   
   <author>
@@ -17,6 +17,35 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>【js7】个简单但棘手的JavaScript面试问题</title>
+    <link href="https://zijunwork.github.io/interview/javascript/f84c093e.html"/>
+    <id>https://zijunwork.github.io/interview/javascript/f84c093e.html</id>
+    <published>2020-04-22T02:03:18.000Z</published>
+    <updated>2020-04-22T02:03:18.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;!-- build time:Wed Apr 22 2020 10:25:43 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;意外全局变量&quot;&gt;&lt;a href=&quot;#意外全局变量&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="面试" scheme="https://zijunwork.github.io/categories/interview/"/>
+    
+      <category term="javascript" scheme="https://zijunwork.github.io/categories/interview/javascript/"/>
+    
+    
+      <category term="面试" scheme="https://zijunwork.github.io/tags/%E9%9D%A2%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hexo-Example</title>
     <link href="https://zijunwork.github.io/docs/dexo/83bf5e9c.html"/>
     <id>https://zijunwork.github.io/docs/dexo/83bf5e9c.html</id>
@@ -25,7 +54,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Apr 21 2020 18:26:10 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;这是一篇关于hexo一些进阶写法的样式文章。&lt;/p&gt;
+      &lt;!-- build time:Wed Apr 22 2020 10:25:43 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;这是一篇关于hexo一些进阶写法的样式文章。&lt;/p&gt;
     
     </summary>
     
@@ -36,23 +65,6 @@
     
     
       <category term="hexo" scheme="https://zijunwork.github.io/tags/hexo/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://zijunwork.github.io/uncategorized/4a17b156.html"/>
-    <id>https://zijunwork.github.io/uncategorized/4a17b156.html</id>
-    <published>2020-04-20T03:04:03.870Z</published>
-    <updated>2020-04-20T03:04:03.870Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Tue Apr 21 2020 18:26:10 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-    
-    </summary>
-    
-    
     
   </entry>
   
