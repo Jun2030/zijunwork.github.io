@@ -54,13 +54,13 @@
   <entry>
     <title>git生成SSH</title>
     <url>/archives/9b772c18.html</url>
-    <content><![CDATA[<!-- build time:Wed May 06 2020 18:19:44 GMT+0800 (GMT+08:00) --><p>本篇主要记录Git的安装，常用命令，生成SSH密钥等。</p><a id="more"></a><h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><p>下载地址：<a href="http://npm.taobao.org/mirrors/git-for-windows/" target="_blank" rel="noopener external nofollow noreferrer">git-for-windows镜像</a></p><h2 id="查看命令"><a href="#查看命令" class="headerlink" title="查看命令"></a>查看命令</h2><p>查看用户名：<code>git config user.name</code></p><p>查看用户邮箱：<code>git config user.email</code></p><h2 id="修改提交信息"><a href="#修改提交信息" class="headerlink" title="修改提交信息"></a>修改提交信息</h2><p>修改用户名：<code>git config --global user.name “Zi Jun”</code></p><p>修改邮箱：<code>git config --global user.email “zijun2030@163.com”</code></p><h2 id="检查是否已经存在SSH密钥"><a href="#检查是否已经存在SSH密钥" class="headerlink" title="检查是否已经存在SSH密钥"></a>检查是否已经存在SSH密钥</h2><p><code>cd ~/.ssh</code> 如果能进入说明已经存在</p><h2 id="生成SSH密钥"><a href="#生成SSH密钥" class="headerlink" title="生成SSH密钥"></a>生成SSH密钥</h2><p><code>ssh-keygen -t rsa -C “zijun2030@163.com”</code> 按3个回车键，密码为空</p><p>文件存放位置 <code>~/.ssh</code>,如果是window的话，Administrator用户，位置：<code>C:\User\Administrator.ssh</code> 下面，如果是其他用户，需要换成对应的用户</p><!-- rebuild by neat -->]]></content>
+    <content><![CDATA[<!-- build time:Wed May 06 2020 19:50:38 GMT+0800 (GMT+08:00) --><p>本篇主要记录Git的安装，常用命令，生成SSH密钥等。</p><a id="more"></a><h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><p>下载地址：<a href="http://npm.taobao.org/mirrors/git-for-windows/" target="_blank" rel="noopener external nofollow noreferrer">git-for-windows镜像</a></p><h2 id="查看命令"><a href="#查看命令" class="headerlink" title="查看命令"></a>查看命令</h2><p>查看用户名：<code>git config user.name</code></p><p>查看用户邮箱：<code>git config user.email</code></p><h2 id="修改提交信息"><a href="#修改提交信息" class="headerlink" title="修改提交信息"></a>修改提交信息</h2><p>修改用户名：<code>git config --global user.name “Zi Jun”</code></p><p>修改邮箱：<code>git config --global user.email “zijun2030@163.com”</code></p><h2 id="检查是否已经存在SSH密钥"><a href="#检查是否已经存在SSH密钥" class="headerlink" title="检查是否已经存在SSH密钥"></a>检查是否已经存在SSH密钥</h2><p><code>cd ~/.ssh</code> 如果能进入说明已经存在</p><h2 id="生成SSH密钥"><a href="#生成SSH密钥" class="headerlink" title="生成SSH密钥"></a>生成SSH密钥</h2><p><code>ssh-keygen -t rsa -C “zijun2030@163.com”</code> 按3个回车键，密码为空</p><p>文件存放位置 <code>~/.ssh</code>,如果是window的话，Administrator用户，位置：<code>C:\User\Administrator.ssh</code> 下面，如果是其他用户，需要换成对应的用户</p><!-- rebuild by neat -->]]></content>
       <categories>
         <category>Git</category>
         <category>Git</category>
       </categories>
       <tags>
-        <tag>What - Git</tag>
+        <tag>Git</tag>
       </tags>
   </entry>
   <entry>
