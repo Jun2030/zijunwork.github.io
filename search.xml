@@ -51,4 +51,42 @@
         <tag>Why - 面试 - JavaScript</tag>
       </tags>
   </entry>
+  <entry>
+    <title>git生成SSH</title>
+    <url>/archives/9b772c18.html</url>
+    <content><![CDATA[<!-- build time:Wed May 06 2020 18:12:48 GMT+0800 (GMT+08:00) --><h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><p>下载地址：<a href="http://npm.taobao.org/mirrors/git-for-windows/" target="_blank" rel="noopener external nofollow noreferrer">git-for-windows镜像</a></p><h2 id="查看命令"><a href="#查看命令" class="headerlink" title="查看命令"></a>查看命令</h2><p>查看用户名：<code>git config user.name</code></p><p>查看用户邮箱：<code>git config user.email</code></p><h2 id="修改提交信息"><a href="#修改提交信息" class="headerlink" title="修改提交信息"></a>修改提交信息</h2><p>修改用户名：<code>git config --global user.name “Zi Jun”</code></p><p>修改邮箱：<code>git config --global user.email “zijun2030@163.com”</code></p><h2 id="检查是否已经存在SSH密钥"><a href="#检查是否已经存在SSH密钥" class="headerlink" title="检查是否已经存在SSH密钥"></a>检查是否已经存在SSH密钥</h2><p><code>cd ~/.ssh</code> 如果能进入说明已经存在</p><h2 id="生成SSH密钥"><a href="#生成SSH密钥" class="headerlink" title="生成SSH密钥"></a>生成SSH密钥</h2><p><code>ssh-keygen -t rsa -C “zijun2030@163.com”</code> 按3个回车键，密码为空</p><p>文件存放位置 <code>~/.ssh</code>,如果是window的话，Administrator用户，位置：<code>C:\User\Administrator.ssh</code> 下面，如果是其他用户，需要换成对应的用户</p><!-- rebuild by neat -->]]></content>
+      <categories>
+        <category>Git</category>
+        <category>Git</category>
+      </categories>
+      <tags>
+        <tag>What - Git</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Sourcetree使用</title>
+    <url>/archives/9b772c18.html</url>
+    <content><![CDATA[<!-- build time:Wed May 06 2020 18:12:48 GMT+0800 (GMT+08:00) --><h2 id="安装跳过注册安装"><a href="#安装跳过注册安装" class="headerlink" title="安装跳过注册安装"></a>安装跳过注册安装</h2><ol><li><p>安装SrouceTree，下载地址: <a href="https://www.sourcetreeapp.com/，执行到选择bitbucket的界面退出" target="_blank" rel="noopener external nofollow noreferrer">https://www.sourcetreeapp.com/，执行到选择bitbucket的界面退出</a></p></li><li><p>到 <code>C:\Users\{用户名}\AppData\Local\Atlassian\SourceTree\</code> 这个路径下创建 <code>accounts.json</code>,并写入以下代码</p><figure class="highlight"><table><tr><td class="code"><pre><span class="line">[</span><br><span class="line">  &#123;</span><br><span class="line">    <span class="attr">"$id"</span>: <span class="string">"1"</span>,</span><br><span class="line">    <span class="attr">"$type"</span>: <span class="string">"SourceTree.Api.Host.Identity.Model.IdentityAccount, SourceTree.Api.Host.Identity"</span>,</span><br><span class="line">    <span class="attr">"Authenticate"</span>: <span class="literal">true</span>,</span><br><span class="line">    <span class="attr">"HostInstance"</span>: &#123;</span><br><span class="line">      <span class="attr">"$id"</span>: <span class="string">"2"</span>,</span><br><span class="line">      <span class="attr">"$type"</span>: <span class="string">"SourceTree.Host.Atlassianaccount.AtlassianAccountInstance, SourceTree.Host.AtlassianAccount"</span>,</span><br><span class="line">      <span class="attr">"Host"</span>: &#123;</span><br><span class="line">        <span class="attr">"$id"</span>: <span class="string">"3"</span>,</span><br><span class="line">        <span class="attr">"$type"</span>: <span class="string">"SourceTree.Host.Atlassianaccount.AtlassianAccountHost, SourceTree.Host.AtlassianAccount"</span>,</span><br><span class="line">        <span class="attr">"Id"</span>: <span class="string">"atlassian account"</span></span><br><span class="line">      &#125;,</span><br><span class="line">      <span class="attr">"BaseUrl"</span>: <span class="string">"https://id.atlassian.com/"</span></span><br><span class="line">    &#125;,</span><br><span class="line">    <span class="attr">"Credentials"</span>: &#123;</span><br><span class="line">      <span class="attr">"$id"</span>: <span class="string">"4"</span>,</span><br><span class="line">      <span class="attr">"$type"</span>: <span class="string">"SourceTree.Model.BasicAuthCredentials, SourceTree.Api.Account"</span>,</span><br><span class="line">      <span class="attr">"Username"</span>: <span class="string">""</span>,</span><br><span class="line">      <span class="attr">"Email"</span>: <span class="literal">null</span></span><br><span class="line">    &#125;,</span><br><span class="line">    <span class="attr">"IsDefault"</span>: <span class="literal">false</span></span><br><span class="line">  &#125;</span><br><span class="line">]Copy to clipboardErrorCopied</span><br></pre></td></tr></table></figure></li><li><p>打开 <code>SourceTree.exe_Url_iayhtc13zv3obzuz5vchezjs1az2q5ef</code> (该目录与版本有关，可能不一致)，进入 <code>user.config</code> 文件，增加以下代码</p><figure class="highlight"><table><tr><td class="code"><pre><span class="line">&lt;setting name="AgreedToEULA" serializeAs="String"&gt;</span><br><span class="line">    &lt;value&gt;True&lt;/value&gt;</span><br><span class="line">&lt;/setting&gt;</span><br><span class="line">&lt;setting name="AgreedToEULAVersion" serializeAs="String"&gt;</span><br><span class="line">    &lt;value&gt;20160201&lt;/value&gt;</span><br><span class="line">&lt;/setting&gt;Copy to clipboardErrorCopied</span><br></pre></td></tr></table></figure></li><li><p>重新点击 SourceTree.exe 安装，弹框选择最后一项 [我不想使用Mercuial] 即可</p></li></ol><h2 id="设置-SSH"><a href="#设置-SSH" class="headerlink" title="设置 SSH"></a>设置 SSH</h2><ol><li>[工具] -&gt; [选项] -&gt; [SSH客户端配置]<ol><li>[SSH客户端] 选择 [OpenSSH]</li><li>[SSH密钥] 选择本地的 <code>id_rsa</code> 私钥文件（Git章节有详细教程）</li></ol></li><li>添加公钥到服务器，以GitHub为例：<ol><li>[github] -&gt; [Settings] -&gt; [SSH and GPG keys] -&gt; [New SSH key] 添加 <code>~/.ssh/id_rsa.pub</code> 文件内容到里面</li></ol></li></ol><h2 id="账户验证"><a href="#账户验证" class="headerlink" title="账户验证"></a>账户验证</h2><ol><li><p>Basic 验证</p><p>填写对应的用户名和密码即可验证</p></li><li><p>OAuth 验证</p><p>[github] -&gt; [Settings] -&gt; [Developer settings] -&gt; [OAuth Apps] 应用的名称随便填，主页 URL 填写<code>http://localhost:8080</code>，跳转网址填写 <code>http://localhost:8080/oauth/redirect</code></p></li></ol><!-- rebuild by neat -->]]></content>
+      <categories>
+        <category>Git</category>
+        <category>Sourcetree</category>
+      </categories>
+      <tags>
+        <tag>How - Git</tag>
+        <tag>Sourcetree</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Github加速</title>
+    <url>/archives/9b772c18.html</url>
+    <content><![CDATA[<!-- build time:Wed May 06 2020 18:12:48 GMT+0800 (GMT+08:00) --><h2 id="github访问加速"><a href="#github访问加速" class="headerlink" title="github访问加速"></a>github访问加速</h2><ol><li>打开 <a href="https://zijunwork.github.io/weblog/#/">Netlify</a> 官网 -&gt; [注册] -&gt; 关联 GitHub 登录 -&gt; [New site from Git] -&gt; 选择GitHub</li><li>进入Github的认证授权页面，点击 <code>Authorize Netlify by Netlify</code></li><li>点击 <code>All repositories</code> 直接选择授权所有仓库，这个授权在设置中可以改</li><li>选择一个项目 如果是 docsify 项目，选择 <code>Base directory</code> 为 <code>/docs</code> 点击 [Deploy site] 发布即可</li><li>部署完成后，Netlify会自动生成一个随机的二级域名 <code>xxx.netlify.com</code>，点击[Site Settings]可以修改为自定义的二级域名</li><li>Site details下点击[Change site name]，可以为这个站点设置一个自定义的名字</li></ol><h2 id="账户验证"><a href="#账户验证" class="headerlink" title="账户验证"></a>账户验证</h2><ol><li><p>Basic 验证</p><p>填写对应的用户名和密码即可验证。</p></li><li><p>OAuth 验证，e.g. SourceTee验证用户方式之一</p><p>[github] -&gt; [Settings] -&gt; [Developer settings] -&gt; [OAuth Apps] 应用的名称随便填，主页 URL 填写<code>http://localhost:8080</code>，跳转网址填写 <code>http://localhost:8080/oauth/redirect</code>。</p></li><li><p>Token 验证，e.g. Webstorm 登录github方式之一</p><p>[github] -&gt; [Settings] -&gt; [Developer settings] -&gt; [Personal access tokens] 生成新的token，用token登录即可。</p></li></ol><!-- rebuild by neat -->]]></content>
+      <categories>
+        <category>Git</category>
+        <category>Github</category>
+      </categories>
+      <tags>
+        <tag>How - Git</tag>
+        <tag>Github</tag>
+      </tags>
+  </entry>
 </search>
