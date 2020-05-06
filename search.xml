@@ -89,4 +89,17 @@
         <tag>Github</tag>
       </tags>
   </entry>
+  <entry>
+    <title>Docsify</title>
+    <url>/archives/2eeac462.html</url>
+    <content><![CDATA[<!-- build time:Wed May 06 2020 19:42:54 GMT+0800 (GMT+08:00) --><p>本篇主要记录Docsify的基本使用。</p><a id="more"></a><h2 id="官方及文档"><a href="#官方及文档" class="headerlink" title="官方及文档"></a>官方及文档</h2><ul><li>官方地址：<a href="https://docsify.js.org/#/" target="_blank" rel="noopener external nofollow noreferrer">https://docsify.js.org/#/</a></li><li>推荐教程：<a href="https://segmentfault.com/a/1190000017576714" target="_blank" rel="noopener external nofollow noreferrer">https://segmentfault.com/a/1190000017576714</a></li></ul><h2 id="Dosify特性"><a href="#Dosify特性" class="headerlink" title="Dosify特性"></a>Dosify特性</h2><ul><li>无需构建，写完文档直接发布</li><li>容易使用并且轻量（~19kb gzipped）</li><li>智能的全文搜索</li><li>提供多套主题</li><li>丰富的 API</li><li>支持 Emoji</li><li>兼容 IE10+</li><li>支持 PWA</li><li>支持 SSR</li></ul><h2 id="Docsify-本地运行"><a href="#Docsify-本地运行" class="headerlink" title="Docsify 本地运行"></a>Docsify 本地运行</h2><p>使用 <code>docsify-cli</code> 来进行本地开发。具体步骤如下：</p><ol><li><code>npm i docsify-cli -g</code> , 全局安装 doscify 脚手架工具</li><li><code>mkdir weblog</code> , 寻找本地磁盘，新建项目目录</li><li><code>cd weblog</code> , 进入项目目录文件中</li><li><code>docsify init ./docs</code> , 初始化一个项目，会生成一些文件</li><li><code>docsify serve ./</code> ， 本地启动服务，即可及时刷新预览</li></ol><h2 id="常用配置"><a href="#常用配置" class="headerlink" title="常用配置"></a>常用配置</h2><ol><li>编辑 <code>index.html</code> 中 <code>window.$docsify</code> 的 <code>coverpage</code> 参数，和创建 <code>_coverpage.md</code> 文件即可展示封面。</li><li>替换 <code>index.html</code> 中 的 <code>css</code> 样式，即可改变主题。</li><li>编辑 <code>index.html</code> 中 <code>window.$docsify</code> 的 <code>loadSidebar</code> 参数，和创建 <code>_sizebar.md</code> 文件即可自定义菜单栏。</li><li>github设置中，开启 <code>GitHub Pages</code> 功能并选择 <code>master branch / docs folder</code> 选项。</li></ol><h2 id="特殊的渲染语法"><a href="#特殊的渲染语法" class="headerlink" title="特殊的渲染语法"></a>特殊的渲染语法</h2><ol><li><p><code>!&gt; Time is money!</code>: 重要内容</p></li><li><p><code>?&gt; You are my friend</code>: 普通提示</p></li><li><p><code>[link](/demo &#39;:target=_blank&#39;)</code>: 设置超链接的打开方式（<code>_black/_self</code>）</p></li><li><p><code>[link](/demo &#39;:disaled&#39;)</code>: 超链接禁止点击</p></li><li><p><code>![image](url &#39;:size=50%&#39;)</code>: 图片显示大小（<code>&#39;:size=50x100&#39;/&#39;:size=100&#39;/&#39;:size=20%&#39;</code>）</p></li><li><p>隐藏/展开详情</p><figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line"><span class="xml"><span class="tag">&lt;<span class="name">details</span>&gt;</span></span></span><br><span class="line"><span class="xml"><span class="tag">&lt;<span class="name">summary</span>&gt;</span></span>展示文章<span class="xml"><span class="tag">&lt;/<span class="name">summary</span>&gt;</span></span></span><br><span class="line">这是隐藏的内容    </span><br><span class="line"><span class="xml"><span class="tag">&lt;/<span class="name">details</span>&gt;</span></span></span><br></pre></td></tr></table></figure></li></ol><!-- rebuild by neat -->]]></content>
+      <categories>
+        <category>文档</category>
+        <category>Docsify</category>
+      </categories>
+      <tags>
+        <tag>Why</tag>
+        <tag>Docsify</tag>
+      </tags>
+  </entry>
 </search>
