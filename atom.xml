@@ -25,7 +25,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Wed May 06 2020 19:42:54 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Docsify的基本使用。&lt;/p&gt;
+      &lt;!-- build time:Wed May 06 2020 19:56:57 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Docsify的基本使用。&lt;/p&gt;
     
     </summary>
     
@@ -34,8 +34,6 @@
     
       <category term="Docsify" scheme="https://zijunwork.github.io/categories/%E6%96%87%E6%A1%A3/Docsify/"/>
     
-    
-      <category term="Why" scheme="https://zijunwork.github.io/tags/Why/"/>
     
       <category term="Docsify" scheme="https://zijunwork.github.io/tags/Docsify/"/>
     
@@ -75,7 +73,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Wed May 06 2020 18:19:44 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Sourcetree的基本使用。&lt;/p&gt;
+      &lt;!-- build time:Wed May 06 2020 19:57:43 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Sourcetree的基本使用。&lt;/p&gt;
     
     </summary>
     
@@ -85,9 +83,9 @@
       <category term="Sourcetree" scheme="https://zijunwork.github.io/categories/Git/Sourcetree/"/>
     
     
-      <category term="How - Git" scheme="https://zijunwork.github.io/tags/How-Git/"/>
-    
       <category term="Sourcetree" scheme="https://zijunwork.github.io/tags/Sourcetree/"/>
+    
+      <category term="Git" scheme="https://zijunwork.github.io/tags/Git/"/>
     
   </entry>
   
@@ -100,7 +98,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Wed May 06 2020 19:50:38 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Git的安装，常用命令，生成SSH密钥等。&lt;/p&gt;
+      &lt;!-- build time:Wed May 06 2020 19:56:57 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Git的安装，常用命令，生成SSH密钥等。&lt;/p&gt;
     
     </summary>
     
@@ -123,7 +121,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Apr 28 2020 19:41:34 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录阅读《启示录-打造用户喜爱的产品》一书的重点笔记。&lt;/p&gt;
+      &lt;!-- build time:Wed May 06 2020 19:56:57 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录阅读《启示录-打造用户喜爱的产品》一书的重点笔记。&lt;/p&gt;
     
     </summary>
     
@@ -133,7 +131,9 @@
       <category term="产品" scheme="https://zijunwork.github.io/categories/%E4%B9%A6%E7%B1%8D/%E4%BA%A7%E5%93%81/"/>
     
     
-      <category term="What - 书籍 - 产品" scheme="https://zijunwork.github.io/tags/What-%E4%B9%A6%E7%B1%8D-%E4%BA%A7%E5%93%81/"/>
+      <category term="书籍" scheme="https://zijunwork.github.io/tags/%E4%B9%A6%E7%B1%8D/"/>
+    
+      <category term="产品" scheme="https://zijunwork.github.io/tags/%E4%BA%A7%E5%93%81/"/>
     
   </entry>
   
@@ -146,7 +146,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Apr 28 2020 19:41:34 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;主要记录hexo使用过程中的一些Bug，Hexo的踩坑之路。&lt;/p&gt;
+      &lt;!-- build time:Wed May 06 2020 19:56:57 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;主要记录hexo使用过程中的一些Bug，Hexo的踩坑之路。&lt;/p&gt;
     
     </summary>
     
@@ -157,8 +157,6 @@
     
     
       <category term="Hexo" scheme="https://zijunwork.github.io/tags/Hexo/"/>
-    
-      <category term="Why" scheme="https://zijunwork.github.io/tags/Why/"/>
     
       <category term="踩坑" scheme="https://zijunwork.github.io/tags/%E8%B8%A9%E5%9D%91/"/>
     
@@ -173,7 +171,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Apr 28 2020 19:41:34 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;这是一篇关于hexo一些进阶写法的样式文章。&lt;/p&gt;
+      &lt;!-- build time:Wed May 06 2020 19:56:57 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;这是一篇关于hexo一些进阶写法的样式文章。&lt;/p&gt;
     
     </summary>
     
@@ -182,8 +180,6 @@
     
       <category term="Hexo" scheme="https://zijunwork.github.io/categories/%E6%96%87%E6%A1%A3/Hexo/"/>
     
-    
-      <category term="What" scheme="https://zijunwork.github.io/tags/What/"/>
     
       <category term="Hexo" scheme="https://zijunwork.github.io/tags/Hexo/"/>
     
@@ -198,7 +194,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Apr 28 2020 19:41:34 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本次主要记录：意外全局变量、数组的length属性、鹰眼测试、自动分号插入、经典为题：棘手的闭包、浮点数计算、变量提升这几个问题。&lt;/p&gt;
+      &lt;!-- build time:Wed May 06 2020 19:56:57 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本次主要记录：意外全局变量、数组的length属性、鹰眼测试、自动分号插入、经典为题：棘手的闭包、浮点数计算、变量提升这几个问题。&lt;/p&gt;
     
     </summary>
     
@@ -208,7 +204,9 @@
       <category term="JavaScript" scheme="https://zijunwork.github.io/categories/%E9%9D%A2%E8%AF%95/JavaScript/"/>
     
     
-      <category term="Why - 面试 - JavaScript" scheme="https://zijunwork.github.io/tags/Why-%E9%9D%A2%E8%AF%95-JavaScript/"/>
+      <category term="面试" scheme="https://zijunwork.github.io/tags/%E9%9D%A2%E8%AF%95/"/>
+    
+      <category term="JavaScript" scheme="https://zijunwork.github.io/tags/JavaScript/"/>
     
   </entry>
   
