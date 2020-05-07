@@ -25,7 +25,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu May 07 2020 15:42:08 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录cmd常用的一些命令。&lt;/p&gt;
+      &lt;!-- build time:Thu May 07 2020 16:06:12 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录cmd常用的一些命令。&lt;/p&gt;
     
     </summary>
     
@@ -48,14 +48,14 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu May 07 2020 15:42:08 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录本地服务的开启，live-server的使用，类似有anywhere。&lt;/p&gt;
+      &lt;!-- build time:Thu May 07 2020 16:06:12 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录本地服务的开启，live-server的使用，类似有anywhere。&lt;/p&gt;
     
     </summary>
     
     
       <category term="Windows" scheme="https://zijunwork.github.io/categories/Windows/"/>
     
-      <category term="server" scheme="https://zijunwork.github.io/categories/Windows/server/"/>
+      <category term="Server" scheme="https://zijunwork.github.io/categories/Windows/Server/"/>
     
     
       <category term="静态服务" scheme="https://zijunwork.github.io/tags/%E9%9D%99%E6%80%81%E6%9C%8D%E5%8A%A1/"/>
@@ -73,14 +73,14 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu May 07 2020 15:42:08 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录本地服务的开启，anywhere的使用，类似有live-server。&lt;/p&gt;
+      &lt;!-- build time:Thu May 07 2020 16:06:12 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录本地服务的开启，anywhere的使用，类似有live-server。&lt;/p&gt;
     
     </summary>
     
     
       <category term="Windows" scheme="https://zijunwork.github.io/categories/Windows/"/>
     
-      <category term="server" scheme="https://zijunwork.github.io/categories/Windows/server/"/>
+      <category term="Server" scheme="https://zijunwork.github.io/categories/Windows/Server/"/>
     
     
       <category term="anywhere" scheme="https://zijunwork.github.io/tags/anywhere/"/>
@@ -98,7 +98,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu May 07 2020 15:42:08 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Docsify的基本使用。&lt;/p&gt;
+      &lt;!-- build time:Thu May 07 2020 16:06:12 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Docsify的基本使用。&lt;/p&gt;
     
     </summary>
     
@@ -121,7 +121,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu May 07 2020 15:42:08 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录github访问加速和账户验证。&lt;/p&gt;
+      &lt;!-- build time:Thu May 07 2020 16:06:12 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录github访问加速和账户验证。&lt;/p&gt;
     
     </summary>
     
@@ -146,7 +146,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu May 07 2020 15:42:08 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Sourcetree的基本使用及常见踩坑问题。&lt;/p&gt;
+      &lt;!-- build time:Thu May 07 2020 16:06:12 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Sourcetree的基本使用及常见踩坑问题。&lt;/p&gt;
     
     </summary>
     
@@ -171,7 +171,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu May 07 2020 15:42:08 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Git的安装，常用命令，生成SSH密钥等。&lt;/p&gt;
+      &lt;!-- build time:Thu May 07 2020 16:06:12 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Git的安装，常用命令，生成SSH密钥等。&lt;/p&gt;
     
     </summary>
     
@@ -194,7 +194,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu May 07 2020 15:42:08 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录阅读《启示录-打造用户喜爱的产品》一书的重点笔记。&lt;/p&gt;
+      &lt;!-- build time:Thu May 07 2020 16:06:12 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录阅读《启示录-打造用户喜爱的产品》一书的重点笔记。&lt;/p&gt;
     
     </summary>
     
@@ -219,7 +219,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu May 07 2020 15:42:08 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;主要记录hexo使用过程中的一些Bug，Hexo的踩坑之路。&lt;/p&gt;
+      &lt;!-- build time:Thu May 07 2020 16:06:12 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;主要记录hexo使用过程中的一些Bug，Hexo的踩坑之路。&lt;/p&gt;
     
     </summary>
     
@@ -244,7 +244,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu May 07 2020 15:42:08 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;这是一篇关于hexo一些进阶写法的样式文章。&lt;/p&gt;
+      &lt;!-- build time:Thu May 07 2020 16:06:12 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;这是一篇关于hexo一些进阶写法的样式文章。&lt;/p&gt;
     
     </summary>
     
@@ -267,7 +267,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu May 07 2020 15:42:08 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本次主要记录：意外全局变量、数组的length属性、鹰眼测试、自动分号插入、经典为题：棘手的闭包、浮点数计算、变量提升这几个问题。&lt;/p&gt;
+      &lt;!-- build time:Thu May 07 2020 16:06:12 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本次主要记录：意外全局变量、数组的length属性、鹰眼测试、自动分号插入、经典为题：棘手的闭包、浮点数计算、变量提升这几个问题。&lt;/p&gt;
     
     </summary>
     
