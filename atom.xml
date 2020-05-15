@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://20202030.cc/"/>
-  <updated>2020-05-13T08:29:49.000Z</updated>
+  <updated>2020-05-15T10:01:01.000Z</updated>
   <id>https://20202030.cc/</id>
   
   <author>
@@ -17,6 +17,56 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>常用正则整理</title>
+    <link href="https://20202030.cc/archives/94c6a923.html"/>
+    <id>https://20202030.cc/archives/94c6a923.html</id>
+    <published>2020-05-15T10:01:01.000Z</published>
+    <updated>2020-05-15T10:01:01.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Fri May 15 2020 18:07:03 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要了常用的正则表达式，便于工作查询。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="JavaScript" scheme="https://20202030.cc/categories/JavaScript/"/>
+    
+      <category term="正则" scheme="https://20202030.cc/categories/JavaScript/%E6%AD%A3%E5%88%99/"/>
+    
+    
+      <category term="JavaScript" scheme="https://20202030.cc/tags/JavaScript/"/>
+    
+      <category term="正则" scheme="https://20202030.cc/tags/%E6%AD%A3%E5%88%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>正则基础</title>
+    <link href="https://20202030.cc/archives/bfcd137d.html"/>
+    <id>https://20202030.cc/archives/bfcd137d.html</id>
+    <published>2020-05-15T09:45:00.000Z</published>
+    <updated>2020-05-15T09:45:00.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Fri May 15 2020 18:07:03 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录正则表达式的基础。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="JavaScript" scheme="https://20202030.cc/categories/JavaScript/"/>
+    
+      <category term="正则" scheme="https://20202030.cc/categories/JavaScript/%E6%AD%A3%E5%88%99/"/>
+    
+    
+      <category term="JavaScript" scheme="https://20202030.cc/tags/JavaScript/"/>
+    
+      <category term="正则" scheme="https://20202030.cc/tags/%E6%AD%A3%E5%88%99/"/>
+    
+  </entry>
+  
+  <entry>
     <title>JavaScript-Let&amp;Var&amp;Function&amp;Const详解</title>
     <link href="https://20202030.cc/archives/71a05d55.html"/>
     <id>https://20202030.cc/archives/71a05d55.html</id>
@@ -25,7 +75,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri May 15 2020 17:39:39 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript中变量和函数的声明，&lt;code&gt;let&lt;/code&gt;, &lt;code&gt;const&lt;/code&gt;, &lt;code&gt;function&lt;/code&gt;, &lt;code&gt;var&lt;/code&gt;。&lt;/p&gt;
+      &lt;!-- build time:Fri May 15 2020 18:07:03 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript中变量和函数的声明，&lt;code&gt;let&lt;/code&gt;, &lt;code&gt;const&lt;/code&gt;, &lt;code&gt;function&lt;/code&gt;, &lt;code&gt;var&lt;/code&gt;。&lt;/p&gt;
     
     </summary>
     
@@ -50,7 +100,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri May 15 2020 17:39:39 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要详细记录JavaScript中的对象属性：命名属性、数据属性、访问器属性、内部属性。&lt;/p&gt;
+      &lt;!-- build time:Fri May 15 2020 18:07:03 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要详细记录JavaScript中的对象属性：命名属性、数据属性、访问器属性、内部属性。&lt;/p&gt;
     
     </summary>
     
@@ -77,7 +127,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri May 15 2020 17:39:39 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript严格模式的详解。&lt;/p&gt;
+      &lt;!-- build time:Fri May 15 2020 18:07:03 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript严格模式的详解。&lt;/p&gt;
     
     </summary>
     
@@ -102,7 +152,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri May 15 2020 17:39:39 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录阅读《你不知道的JavaScript（上卷）》的一些笔记，主要内容为作用域和闭包、this和原型对象。&lt;/p&gt;
+      &lt;!-- build time:Fri May 15 2020 18:07:03 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录阅读《你不知道的JavaScript（上卷）》的一些笔记，主要内容为作用域和闭包、this和原型对象。&lt;/p&gt;
     
     </summary>
     
@@ -127,7 +177,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri May 15 2020 17:39:39 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录cmd常用的一些命令。&lt;/p&gt;
+      &lt;!-- build time:Fri May 15 2020 18:07:03 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录cmd常用的一些命令。&lt;/p&gt;
     
     </summary>
     
@@ -150,7 +200,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri May 15 2020 17:39:39 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录本地服务的开启，live-server的使用，类似有anywhere。&lt;/p&gt;
+      &lt;!-- build time:Fri May 15 2020 18:07:03 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录本地服务的开启，live-server的使用，类似有anywhere。&lt;/p&gt;
     
     </summary>
     
@@ -175,7 +225,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri May 15 2020 17:39:39 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录本地服务的开启，anywhere的使用，类似有live-server。&lt;/p&gt;
+      &lt;!-- build time:Fri May 15 2020 18:07:03 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录本地服务的开启，anywhere的使用，类似有live-server。&lt;/p&gt;
     
     </summary>
     
@@ -200,7 +250,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri May 15 2020 17:39:39 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Docsify的基本使用。&lt;/p&gt;
+      &lt;!-- build time:Fri May 15 2020 18:07:03 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Docsify的基本使用。&lt;/p&gt;
     
     </summary>
     
@@ -223,7 +273,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri May 15 2020 17:39:39 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录github访问加速和账户验证。&lt;/p&gt;
+      &lt;!-- build time:Fri May 15 2020 18:07:03 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录github访问加速和账户验证。&lt;/p&gt;
     
     </summary>
     
@@ -248,7 +298,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri May 15 2020 17:39:39 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Sourcetree的基本使用及常见踩坑问题。&lt;/p&gt;
+      &lt;!-- build time:Fri May 15 2020 18:07:03 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Sourcetree的基本使用及常见踩坑问题。&lt;/p&gt;
     
     </summary>
     
@@ -273,7 +323,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri May 15 2020 17:39:39 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Git的安装，常用命令，生成SSH密钥等。&lt;/p&gt;
+      &lt;!-- build time:Fri May 15 2020 18:07:03 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Git的安装，常用命令，生成SSH密钥等。&lt;/p&gt;
     
     </summary>
     
@@ -296,7 +346,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri May 15 2020 17:39:39 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录阅读《启示录-打造用户喜爱的产品》一书的重点笔记。&lt;/p&gt;
+      &lt;!-- build time:Fri May 15 2020 18:07:03 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录阅读《启示录-打造用户喜爱的产品》一书的重点笔记。&lt;/p&gt;
     
     </summary>
     
@@ -321,7 +371,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri May 15 2020 17:39:39 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;主要记录hexo使用过程中的一些Bug，Hexo的踩坑之路。&lt;/p&gt;
+      &lt;!-- build time:Fri May 15 2020 18:07:03 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;主要记录hexo使用过程中的一些Bug，Hexo的踩坑之路。&lt;/p&gt;
     
     </summary>
     
@@ -346,7 +396,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri May 15 2020 17:39:39 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;这是一篇关于hexo一些进阶写法的样式文章。&lt;/p&gt;
+      &lt;!-- build time:Fri May 15 2020 18:07:03 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;这是一篇关于hexo一些进阶写法的样式文章。&lt;/p&gt;
     
     </summary>
     
@@ -369,7 +419,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri May 15 2020 17:39:39 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本次主要记录：意外全局变量、数组的length属性、鹰眼测试、自动分号插入、经典为题：棘手的闭包、浮点数计算、变量提升这几个问题。&lt;/p&gt;
+      &lt;!-- build time:Fri May 15 2020 18:07:03 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本次主要记录：意外全局变量、数组的length属性、鹰眼测试、自动分号插入、经典为题：棘手的闭包、浮点数计算、变量提升这几个问题。&lt;/p&gt;
     
     </summary>
     
