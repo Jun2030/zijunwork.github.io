@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://20202030.cc/"/>
-  <updated>2020-05-23T02:55:36.000Z</updated>
+  <updated>2020-05-25T09:33:51.000Z</updated>
   <id>https://20202030.cc/</id>
   
   <author>
@@ -17,15 +17,15 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>JavaScript进阶-ApplyCall</title>
-    <link href="https://20202030.cc/archives/495da9ad.html"/>
-    <id>https://20202030.cc/archives/495da9ad.html</id>
-    <published>2020-05-23T02:55:36.000Z</published>
-    <updated>2020-05-23T02:55:36.000Z</updated>
+    <title>JavaScript进阶-PromiseAsync区别</title>
+    <link href="https://20202030.cc/archives/6f36c6d1.html"/>
+    <id>https://20202030.cc/archives/6f36c6d1.html</id>
+    <published>2020-05-25T09:33:51.000Z</published>
+    <updated>2020-05-25T09:33:51.000Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Mon May 25 2020 15:29:10 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript中的 &lt;code&gt;call()&lt;/code&gt; 、&lt;code&gt;apply()&lt;/code&gt;、&lt;code&gt;bind()&lt;/code&gt; 方法。&lt;/p&gt;
+      &lt;!-- build time:Mon May 25 2020 19:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录从一到面试题引出的 &lt;code&gt;setTimeout&lt;/code&gt;, &lt;code&gt;Promise&lt;/code&gt;, &lt;code&gt;async/await&lt;/code&gt; 的区别。&lt;/p&gt;
     
     </summary>
     
@@ -39,9 +39,65 @@
     
       <category term="JavaScript" scheme="https://20202030.cc/tags/JavaScript/"/>
     
-      <category term="apply" scheme="https://20202030.cc/tags/apply/"/>
+      <category term="Promise" scheme="https://20202030.cc/tags/Promise/"/>
     
-      <category term="call" scheme="https://20202030.cc/tags/call/"/>
+      <category term="Async" scheme="https://20202030.cc/tags/Async/"/>
+    
+      <category term="Await" scheme="https://20202030.cc/tags/Await/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>前端面试题整理(三)</title>
+    <link href="https://20202030.cc/archives/fb83a9e4.html"/>
+    <id>https://20202030.cc/archives/fb83a9e4.html</id>
+    <published>2020-05-25T08:11:24.000Z</published>
+    <updated>2020-05-25T08:11:24.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Mon May 25 2020 19:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录一些进阶型的面试问题：&lt;code&gt;Promise/Async/Await&lt;/code&gt;执行顺序、定时器的执行顺序或机制、&lt;code&gt;[&amp;#39;1&amp;#39;,&amp;#39;2&amp;#39;,&amp;#39;3&amp;#39;].map(parseInt)&lt;/code&gt;、&lt;code&gt;Doctype&lt;/code&gt; 作用、&lt;code&gt;fetch&lt;/code&gt; 发送 2 次请求的原因这几个问题。&lt;/p&gt;&lt;p&gt;原链接名：《30道经典面试题》&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="面试" scheme="https://20202030.cc/categories/%E9%9D%A2%E8%AF%95/"/>
+    
+      <category term="JavaScript" scheme="https://20202030.cc/categories/%E9%9D%A2%E8%AF%95/JavaScript/"/>
+    
+    
+      <category term="面试" scheme="https://20202030.cc/tags/%E9%9D%A2%E8%AF%95/"/>
+    
+      <category term="JavaScript" scheme="https://20202030.cc/tags/JavaScript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript进阶-ApplyCall</title>
+    <link href="https://20202030.cc/archives/495da9ad.html"/>
+    <id>https://20202030.cc/archives/495da9ad.html</id>
+    <published>2020-05-23T02:55:36.000Z</published>
+    <updated>2020-05-23T02:55:36.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Mon May 25 2020 19:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript中的 &lt;code&gt;call()&lt;/code&gt; 、&lt;code&gt;apply()&lt;/code&gt;、&lt;code&gt;bind()&lt;/code&gt; 方法。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="前端" scheme="https://20202030.cc/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+      <category term="JavaScript" scheme="https://20202030.cc/categories/%E5%89%8D%E7%AB%AF/JavaScript/"/>
+    
+      <category term="进阶" scheme="https://20202030.cc/categories/%E5%89%8D%E7%AB%AF/JavaScript/%E8%BF%9B%E9%98%B6/"/>
+    
+    
+      <category term="JavaScript" scheme="https://20202030.cc/tags/JavaScript/"/>
+    
+      <category term="Apply" scheme="https://20202030.cc/tags/Apply/"/>
+    
+      <category term="Call" scheme="https://20202030.cc/tags/Call/"/>
     
   </entry>
   
@@ -54,7 +110,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Mon May 25 2020 15:29:10 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript中字面量的详解。&lt;/p&gt;
+      &lt;!-- build time:Mon May 25 2020 19:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript中字面量的详解。&lt;/p&gt;
     
     </summary>
     
@@ -81,7 +137,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Mon May 25 2020 15:29:10 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript的设计模式-单例模式。&lt;/p&gt;
+      &lt;!-- build time:Mon May 25 2020 19:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript的设计模式-单例模式。&lt;/p&gt;
     
     </summary>
     
@@ -108,7 +164,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Mon May 25 2020 15:29:10 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript模块化的几个重要发展阶段，无模块化，CommonJS，AMD规范，CMD规范，ES6模块化。&lt;/p&gt;
+      &lt;!-- build time:Mon May 25 2020 19:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript模块化的几个重要发展阶段，无模块化，CommonJS，AMD规范，CMD规范，ES6模块化。&lt;/p&gt;
     
     </summary>
     
@@ -137,7 +193,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Mon May 25 2020 15:29:10 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录工作总常用的一些工具方法集合，也适用于vue项目中的utlils目录下的方法整理。为方便使用，这里已模块化方式书写。&lt;/p&gt;
+      &lt;!-- build time:Mon May 25 2020 19:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录工作总常用的一些工具方法集合，也适用于vue项目中的utlils目录下的方法整理。为方便使用，这里已模块化方式书写。&lt;/p&gt;
     
     </summary>
     
@@ -168,7 +224,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Mon May 25 2020 15:29:10 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript的防抖和节流。&lt;/p&gt;
+      &lt;!-- build time:Mon May 25 2020 19:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript的防抖和节流。&lt;/p&gt;
     
     </summary>
     
@@ -195,7 +251,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Mon May 25 2020 15:29:10 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录一些进阶型的面试问题：防抖/节流、get/post、模块化、npm安装机制、ES6继承等问题。&lt;/p&gt;&lt;p&gt;原链接名：《30道经典面试题》&lt;/p&gt;
+      &lt;!-- build time:Mon May 25 2020 19:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录一些进阶型的面试问题：防抖/节流、get/post、模块化、npm安装机制、ES6继承等问题。&lt;/p&gt;&lt;p&gt;原链接名：《30道经典面试题》&lt;/p&gt;
     
     </summary>
     
@@ -220,7 +276,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Mon May 25 2020 15:29:10 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要了常用的正则表达式，便于工作查询。&lt;/p&gt;
+      &lt;!-- build time:Mon May 25 2020 19:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要了常用的正则表达式，便于工作查询。&lt;/p&gt;
     
     </summary>
     
@@ -247,7 +303,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Mon May 25 2020 15:29:10 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录正则表达式的基础。&lt;/p&gt;
+      &lt;!-- build time:Mon May 25 2020 19:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录正则表达式的基础。&lt;/p&gt;
     
     </summary>
     
@@ -274,7 +330,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Mon May 25 2020 15:29:10 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript中变量和函数的声明，&lt;code&gt;let&lt;/code&gt;, &lt;code&gt;const&lt;/code&gt;, &lt;code&gt;function&lt;/code&gt;, &lt;code&gt;var&lt;/code&gt;。&lt;/p&gt;
+      &lt;!-- build time:Mon May 25 2020 19:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript中变量和函数的声明，&lt;code&gt;let&lt;/code&gt;, &lt;code&gt;const&lt;/code&gt;, &lt;code&gt;function&lt;/code&gt;, &lt;code&gt;var&lt;/code&gt;。&lt;/p&gt;
     
     </summary>
     
@@ -301,7 +357,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Mon May 25 2020 15:29:10 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要详细记录JavaScript中的对象属性：命名属性、数据属性、访问器属性、内部属性。&lt;/p&gt;
+      &lt;!-- build time:Mon May 25 2020 19:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要详细记录JavaScript中的对象属性：命名属性、数据属性、访问器属性、内部属性。&lt;/p&gt;
     
     </summary>
     
@@ -330,7 +386,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Mon May 25 2020 15:29:10 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript严格模式的详解。&lt;/p&gt;
+      &lt;!-- build time:Mon May 25 2020 19:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript严格模式的详解。&lt;/p&gt;
     
     </summary>
     
@@ -357,7 +413,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Mon May 25 2020 15:29:10 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录阅读《你不知道的JavaScript（上卷）》的一些笔记，主要内容为作用域和闭包、this和原型对象。&lt;/p&gt;
+      &lt;!-- build time:Mon May 25 2020 19:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录阅读《你不知道的JavaScript（上卷）》的一些笔记，主要内容为作用域和闭包、this和原型对象。&lt;/p&gt;
     
     </summary>
     
@@ -382,7 +438,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Mon May 25 2020 15:29:10 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录cmd常用的一些命令。&lt;/p&gt;
+      &lt;!-- build time:Mon May 25 2020 19:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录cmd常用的一些命令。&lt;/p&gt;
     
     </summary>
     
@@ -405,7 +461,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Mon May 25 2020 15:29:10 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录本地服务的开启，live-server的使用，类似有anywhere。&lt;/p&gt;
+      &lt;!-- build time:Mon May 25 2020 19:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录本地服务的开启，live-server的使用，类似有anywhere。&lt;/p&gt;
     
     </summary>
     
@@ -430,7 +486,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Mon May 25 2020 15:29:10 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录本地服务的开启，anywhere的使用，类似有live-server。&lt;/p&gt;
+      &lt;!-- build time:Mon May 25 2020 19:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录本地服务的开启，anywhere的使用，类似有live-server。&lt;/p&gt;
     
     </summary>
     
@@ -455,7 +511,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Mon May 25 2020 15:29:10 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Docsify的基本使用。&lt;/p&gt;
+      &lt;!-- build time:Mon May 25 2020 19:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Docsify的基本使用。&lt;/p&gt;
     
     </summary>
     
@@ -478,7 +534,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Mon May 25 2020 15:29:10 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录github访问加速和账户验证。&lt;/p&gt;
+      &lt;!-- build time:Mon May 25 2020 19:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录github访问加速和账户验证。&lt;/p&gt;
     
     </summary>
     
@@ -488,57 +544,9 @@
       <category term="Github" scheme="https://20202030.cc/categories/Git/Github/"/>
     
     
+      <category term="Git" scheme="https://20202030.cc/tags/Git/"/>
+    
       <category term="Github" scheme="https://20202030.cc/tags/Github/"/>
-    
-      <category term="Git" scheme="https://20202030.cc/tags/Git/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Sourcetree使用</title>
-    <link href="https://20202030.cc/archives/f0db4be8.html"/>
-    <id>https://20202030.cc/archives/f0db4be8.html</id>
-    <published>2020-05-06T10:09:18.000Z</published>
-    <updated>2020-05-06T10:09:18.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Mon May 25 2020 15:29:10 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Sourcetree的基本使用及常见踩坑问题。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="Git" scheme="https://20202030.cc/categories/Git/"/>
-    
-      <category term="Sourcetree" scheme="https://20202030.cc/categories/Git/Sourcetree/"/>
-    
-    
-      <category term="Git" scheme="https://20202030.cc/tags/Git/"/>
-    
-      <category term="Sourcetree" scheme="https://20202030.cc/tags/Sourcetree/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Git生成SSH</title>
-    <link href="https://20202030.cc/archives/64992bff.html"/>
-    <id>https://20202030.cc/archives/64992bff.html</id>
-    <published>2020-05-06T10:01:18.000Z</published>
-    <updated>2020-05-06T10:01:18.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Mon May 25 2020 15:29:10 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Git的安装，常用命令，生成SSH密钥等。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="Git" scheme="https://20202030.cc/categories/Git/"/>
-    
-      <category term="Git" scheme="https://20202030.cc/categories/Git/Git/"/>
-    
-    
-      <category term="Git" scheme="https://20202030.cc/tags/Git/"/>
     
   </entry>
   
