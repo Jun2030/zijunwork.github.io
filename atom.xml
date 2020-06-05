@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://20202030.cc/"/>
-  <updated>2020-06-03T08:17:00.000Z</updated>
+  <updated>2020-06-04T10:03:23.000Z</updated>
   <id>https://20202030.cc/</id>
   
   <author>
@@ -17,6 +17,72 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>JavaScript基础-会话通信</title>
+    <link href="https://20202030.cc/archives/c9577b.html"/>
+    <id>https://20202030.cc/archives/c9577b.html</id>
+    <published>2020-06-04T10:03:23.000Z</published>
+    <updated>2020-06-04T10:03:23.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Fri Jun 05 2020 14:17:50 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录会话通信的方式，Session，Cookie，Token这三种的方式的详情。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="前端" scheme="https://20202030.cc/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+      <category term="JavaScript" scheme="https://20202030.cc/categories/%E5%89%8D%E7%AB%AF/JavaScript/"/>
+    
+      <category term="基础" scheme="https://20202030.cc/categories/%E5%89%8D%E7%AB%AF/JavaScript/%E5%9F%BA%E7%A1%80/"/>
+    
+    
+      <category term="JavaScript" scheme="https://20202030.cc/tags/JavaScript/"/>
+    
+      <category term="前端" scheme="https://20202030.cc/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+      <category term="Cookie" scheme="https://20202030.cc/tags/Cookie/"/>
+    
+      <category term="Session" scheme="https://20202030.cc/tags/Session/"/>
+    
+      <category term="Token" scheme="https://20202030.cc/tags/Token/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript基础-Storage存储</title>
+    <link href="https://20202030.cc/archives/4fd295e0.html"/>
+    <id>https://20202030.cc/archives/4fd295e0.html</id>
+    <published>2020-06-04T07:23:58.000Z</published>
+    <updated>2020-06-04T07:23:58.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Fri Jun 05 2020 14:17:50 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录前端的存储方式：Cookie、SessionStorage、LocalStorage的使用、区别、使用场景等。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="前端" scheme="https://20202030.cc/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+      <category term="JavaScript" scheme="https://20202030.cc/categories/%E5%89%8D%E7%AB%AF/JavaScript/"/>
+    
+      <category term="基础" scheme="https://20202030.cc/categories/%E5%89%8D%E7%AB%AF/JavaScript/%E5%9F%BA%E7%A1%80/"/>
+    
+    
+      <category term="JavaScript" scheme="https://20202030.cc/tags/JavaScript/"/>
+    
+      <category term="前端" scheme="https://20202030.cc/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+      <category term="Cookie" scheme="https://20202030.cc/tags/Cookie/"/>
+    
+      <category term="SessionStorage" scheme="https://20202030.cc/tags/SessionStorage/"/>
+    
+      <category term="LocalStorage" scheme="https://20202030.cc/tags/LocalStorage/"/>
+    
+  </entry>
+  
+  <entry>
     <title>HTTP各版本区别</title>
     <link href="https://20202030.cc/archives/63110c3b.html"/>
     <id>https://20202030.cc/archives/63110c3b.html</id>
@@ -25,7 +91,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Jun 04 2020 14:33:58 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录HTTP1.0、HTTP1.1、HTTP2.0的区别。&lt;/p&gt;
+      &lt;!-- build time:Fri Jun 05 2020 14:17:50 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录HTTP1.0、HTTP1.1、HTTP2.0的区别。&lt;/p&gt;
     
     </summary>
     
@@ -46,7 +112,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Jun 04 2020 14:33:58 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要详细记录 CSS3 的 box-shadow 大全。&lt;/p&gt;
+      &lt;!-- build time:Fri Jun 05 2020 14:17:50 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要详细记录 CSS3 的 box-shadow 大全。&lt;/p&gt;
     
     </summary>
     
@@ -71,7 +137,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Jun 04 2020 14:33:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录TCP建立连接需要三次握手和断开连接需要四次挥手的详解。&lt;/p&gt;
+      &lt;!-- build time:Fri Jun 05 2020 14:17:50 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录TCP建立连接需要三次握手和断开连接需要四次挥手的详解。&lt;/p&gt;
     
     </summary>
     
@@ -94,11 +160,11 @@
     <link href="https://20202030.cc/archives/1c046eb.html"/>
     <id>https://20202030.cc/archives/1c046eb.html</id>
     <published>2020-05-27T07:23:02.000Z</published>
-    <updated>2020-05-27T07:23:02.000Z</updated>
+    <updated>2020-06-06T07:21:02.000Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Jun 04 2020 14:33:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录一些进阶型的面试问题：TCP三次握手、跨域处理方式、&lt;code&gt;Cookie/SessionStorage/LocalStroage&lt;/code&gt;区别、XSS攻击、浏览器和Node事件循环区别这几个问题。&lt;/p&gt;&lt;p&gt;原链接名：《30道经典面试题》&lt;/p&gt;
+      &lt;!-- build time:Fri Jun 05 2020 14:17:50 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录一些进阶型的面试问题：TCP三次握手、&lt;code&gt;Cookie/SessionStorage/LocalStroage&lt;/code&gt;区别、XSS攻击、浏览器和Node事件循环区别这几个问题。&lt;/p&gt;&lt;p&gt;原链接名：《30道经典面试题》&lt;/p&gt;
     
     </summary>
     
@@ -123,7 +189,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Jun 04 2020 14:33:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录从一到面试题引出的 &lt;code&gt;setTimeout&lt;/code&gt;, &lt;code&gt;Promise&lt;/code&gt;, &lt;code&gt;async/await&lt;/code&gt; 的区别。&lt;/p&gt;
+      &lt;!-- build time:Fri Jun 05 2020 14:17:50 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录从一到面试题引出的 &lt;code&gt;setTimeout&lt;/code&gt;, &lt;code&gt;Promise&lt;/code&gt;, &lt;code&gt;async/await&lt;/code&gt; 的区别。&lt;/p&gt;
     
     </summary>
     
@@ -154,7 +220,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Jun 04 2020 14:33:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录一些进阶型的面试问题：&lt;code&gt;Promise/Async/Await&lt;/code&gt;执行顺序、定时器的执行顺序或机制、&lt;code&gt;[&amp;#39;1&amp;#39;,&amp;#39;2&amp;#39;,&amp;#39;3&amp;#39;].map(parseInt)&lt;/code&gt;、&lt;code&gt;Doctype&lt;/code&gt; 作用、&lt;code&gt;fetch&lt;/code&gt; 发送 2 次请求的原因这几个问题。&lt;/p&gt;&lt;p&gt;原链接名：《30道经典面试题》&lt;/p&gt;
+      &lt;!-- build time:Fri Jun 05 2020 14:17:50 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录一些进阶型的面试问题：&lt;code&gt;Promise/Async/Await&lt;/code&gt;执行顺序、定时器的执行顺序或机制、&lt;code&gt;[&amp;#39;1&amp;#39;,&amp;#39;2&amp;#39;,&amp;#39;3&amp;#39;].map(parseInt)&lt;/code&gt;、&lt;code&gt;Doctype&lt;/code&gt; 作用、&lt;code&gt;fetch&lt;/code&gt; 发送 2 次请求的原因这几个问题。&lt;/p&gt;&lt;p&gt;原链接名：《30道经典面试题》&lt;/p&gt;
     
     </summary>
     
@@ -179,7 +245,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Jun 04 2020 14:33:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript中的 &lt;code&gt;call()&lt;/code&gt; 、&lt;code&gt;apply()&lt;/code&gt;、&lt;code&gt;bind()&lt;/code&gt; 方法。&lt;/p&gt;
+      &lt;!-- build time:Fri Jun 05 2020 14:17:50 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript中的 &lt;code&gt;call()&lt;/code&gt; 、&lt;code&gt;apply()&lt;/code&gt;、&lt;code&gt;bind()&lt;/code&gt; 方法。&lt;/p&gt;
     
     </summary>
     
@@ -208,7 +274,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Jun 04 2020 14:33:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript中字面量的详解。&lt;/p&gt;
+      &lt;!-- build time:Fri Jun 05 2020 14:17:50 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript中字面量的详解。&lt;/p&gt;
     
     </summary>
     
@@ -235,7 +301,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Jun 04 2020 14:33:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript的设计模式-单例模式。&lt;/p&gt;
+      &lt;!-- build time:Fri Jun 05 2020 14:17:50 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript的设计模式-单例模式。&lt;/p&gt;
     
     </summary>
     
@@ -262,7 +328,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Jun 04 2020 14:33:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript模块化的几个重要发展阶段，无模块化，CommonJS，AMD规范，CMD规范，ES6模块化。&lt;/p&gt;
+      &lt;!-- build time:Fri Jun 05 2020 14:17:50 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript模块化的几个重要发展阶段，无模块化，CommonJS，AMD规范，CMD规范，ES6模块化。&lt;/p&gt;
     
     </summary>
     
@@ -291,7 +357,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Jun 04 2020 14:33:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录工作总常用的一些工具方法集合，也适用于vue项目中的utlils目录下的方法整理。为方便使用，这里已模块化方式书写。&lt;/p&gt;
+      &lt;!-- build time:Fri Jun 05 2020 14:17:50 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录工作总常用的一些工具方法集合，也适用于vue项目中的utlils目录下的方法整理。为方便使用，这里已模块化方式书写。&lt;/p&gt;
     
     </summary>
     
@@ -322,7 +388,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Jun 04 2020 14:33:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript的防抖和节流。&lt;/p&gt;
+      &lt;!-- build time:Fri Jun 05 2020 14:17:50 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript的防抖和节流。&lt;/p&gt;
     
     </summary>
     
@@ -349,7 +415,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Jun 04 2020 14:33:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录一些进阶型的面试问题：防抖/节流、get/post、模块化、npm安装机制、ES6继承等问题。&lt;/p&gt;&lt;p&gt;原链接名：《30道经典面试题》&lt;/p&gt;
+      &lt;!-- build time:Fri Jun 05 2020 14:17:50 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录一些进阶型的面试问题：防抖/节流、get/post、模块化、npm安装机制、ES6继承等问题。&lt;/p&gt;&lt;p&gt;原链接名：《30道经典面试题》&lt;/p&gt;
     
     </summary>
     
@@ -374,7 +440,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Jun 04 2020 14:33:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要了常用的正则表达式，便于工作查询。&lt;/p&gt;
+      &lt;!-- build time:Fri Jun 05 2020 14:17:50 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要了常用的正则表达式，便于工作查询。&lt;/p&gt;
     
     </summary>
     
@@ -401,7 +467,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Jun 04 2020 14:33:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录正则表达式的基础。&lt;/p&gt;
+      &lt;!-- build time:Fri Jun 05 2020 14:17:50 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录正则表达式的基础。&lt;/p&gt;
     
     </summary>
     
@@ -428,7 +494,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Jun 04 2020 14:33:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript中变量和函数的声明，&lt;code&gt;let&lt;/code&gt;, &lt;code&gt;const&lt;/code&gt;, &lt;code&gt;function&lt;/code&gt;, &lt;code&gt;var&lt;/code&gt;。&lt;/p&gt;
+      &lt;!-- build time:Fri Jun 05 2020 14:17:50 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript中变量和函数的声明，&lt;code&gt;let&lt;/code&gt;, &lt;code&gt;const&lt;/code&gt;, &lt;code&gt;function&lt;/code&gt;, &lt;code&gt;var&lt;/code&gt;。&lt;/p&gt;
     
     </summary>
     
@@ -455,7 +521,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Jun 04 2020 14:33:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要详细记录JavaScript中的对象属性：命名属性、数据属性、访问器属性、内部属性。&lt;/p&gt;
+      &lt;!-- build time:Fri Jun 05 2020 14:17:50 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要详细记录JavaScript中的对象属性：命名属性、数据属性、访问器属性、内部属性。&lt;/p&gt;
     
     </summary>
     
@@ -484,7 +550,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Jun 04 2020 14:33:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript严格模式的详解。&lt;/p&gt;
+      &lt;!-- build time:Fri Jun 05 2020 14:17:50 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript严格模式的详解。&lt;/p&gt;
     
     </summary>
     
@@ -499,54 +565,6 @@
       <category term="JavaScript" scheme="https://20202030.cc/tags/JavaScript/"/>
     
       <category term="前端" scheme="https://20202030.cc/tags/%E5%89%8D%E7%AB%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>读《你不知道的JavaScript(上卷)》</title>
-    <link href="https://20202030.cc/archives/3dacf7de.html"/>
-    <id>https://20202030.cc/archives/3dacf7de.html</id>
-    <published>2020-05-08T10:46:10.000Z</published>
-    <updated>2020-05-08T10:46:10.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Thu Jun 04 2020 14:33:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录阅读《你不知道的JavaScript（上卷）》的一些笔记，主要内容为作用域和闭包、this和原型对象。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="书籍" scheme="https://20202030.cc/categories/%E4%B9%A6%E7%B1%8D/"/>
-    
-      <category term="JavaScript" scheme="https://20202030.cc/categories/%E4%B9%A6%E7%B1%8D/JavaScript/"/>
-    
-    
-      <category term="JavaScript" scheme="https://20202030.cc/tags/JavaScript/"/>
-    
-      <category term="书籍" scheme="https://20202030.cc/tags/%E4%B9%A6%E7%B1%8D/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>常用Cmd命令</title>
-    <link href="https://20202030.cc/archives/fd31ce3.html"/>
-    <id>https://20202030.cc/archives/fd31ce3.html</id>
-    <published>2020-05-07T07:28:11.000Z</published>
-    <updated>2020-05-07T07:28:11.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Thu Jun 04 2020 14:33:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录cmd常用的一些命令。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="Windows" scheme="https://20202030.cc/categories/Windows/"/>
-    
-      <category term="Cmd" scheme="https://20202030.cc/categories/Windows/Cmd/"/>
-    
-    
-      <category term="Cmd" scheme="https://20202030.cc/tags/Cmd/"/>
     
   </entry>
   
