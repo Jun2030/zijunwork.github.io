@@ -25,7 +25,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jun 16 2020 19:04:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录网页性能-浏览器解析HTML、CSS、JavaScript的过程记录。&lt;/p&gt;
+      &lt;!-- build time:Wed Jun 17 2020 17:11:50 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录网页性能-浏览器解析HTML、CSS、JavaScript的过程记录。&lt;/p&gt;
     
     </summary>
     
@@ -42,7 +42,7 @@
   </entry>
   
   <entry>
-    <title>前端优化-回流重绘</title>
+    <title>JavaScript进阶-回流重绘</title>
     <link href="https://20202030.cc/archives/1ae5dc8a.html"/>
     <id>https://20202030.cc/archives/1ae5dc8a.html</id>
     <published>2020-06-16T03:40:31.000Z</published>
@@ -50,21 +50,21 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jun 16 2020 19:04:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;描述&lt;/p&gt;
+      &lt;!-- build time:Wed Jun 17 2020 17:11:50 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录页面的回流和重绘，以及相关优化。&lt;/p&gt;
     
     </summary>
     
     
       <category term="前端" scheme="https://20202030.cc/categories/%E5%89%8D%E7%AB%AF/"/>
     
-      <category term="优化" scheme="https://20202030.cc/categories/%E5%89%8D%E7%AB%AF/%E4%BC%98%E5%8C%96/"/>
+      <category term="JavaScript" scheme="https://20202030.cc/categories/%E5%89%8D%E7%AB%AF/JavaScript/"/>
+    
+      <category term="进阶" scheme="https://20202030.cc/categories/%E5%89%8D%E7%AB%AF/JavaScript/%E8%BF%9B%E9%98%B6/"/>
     
     
-      <category term="优化" scheme="https://20202030.cc/tags/%E4%BC%98%E5%8C%96/"/>
+      <category term="JavaScript" scheme="https://20202030.cc/tags/JavaScript/"/>
     
-      <category term="回流" scheme="https://20202030.cc/tags/%E5%9B%9E%E6%B5%81/"/>
-    
-      <category term="重绘" scheme="https://20202030.cc/tags/%E9%87%8D%E7%BB%98/"/>
+      <category term="前端" scheme="https://20202030.cc/tags/%E5%89%8D%E7%AB%AF/"/>
     
   </entry>
   
@@ -77,7 +77,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jun 16 2020 19:04:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录前端预加载技术。&lt;/p&gt;
+      &lt;!-- build time:Wed Jun 17 2020 17:11:50 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录前端预加载技术。&lt;/p&gt;
     
     </summary>
     
@@ -102,7 +102,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jun 16 2020 19:04:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录HTTP协议缓存机制的详解。&lt;/p&gt;
+      &lt;!-- build time:Wed Jun 17 2020 17:11:50 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录HTTP协议缓存机制的详解。&lt;/p&gt;
     
     </summary>
     
@@ -125,7 +125,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jun 16 2020 19:04:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录前端的一些优化处理技巧的整理，比如如何快速渲染大量图片，如何提高页面加载速度等。&lt;/p&gt;
+      &lt;!-- build time:Wed Jun 17 2020 17:11:50 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录前端的一些优化处理技巧的整理，比如如何快速渲染大量图片，如何提高页面加载速度等。&lt;/p&gt;
     
     </summary>
     
@@ -148,7 +148,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jun 16 2020 19:04:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录一些进阶型的面试问题：前端优化策略、重绘和回流、Vue列表渲染Key、为什么虚拟Dom会提高性能、清除浮动方式。&lt;/p&gt;&lt;p&gt;原链接名：《30道经典面试题》&lt;/p&gt;
+      &lt;!-- build time:Wed Jun 17 2020 17:11:50 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录一些进阶型的面试问题：前端优化策略、重绘和回流、Vue列表渲染Key、为什么虚拟Dom会提高性能、清除浮动方式。&lt;/p&gt;&lt;p&gt;原链接名：《30道经典面试题》&lt;/p&gt;
     
     </summary>
     
@@ -173,7 +173,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jun 16 2020 19:04:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node和浏览器中事件循环机制的区别。&lt;/p&gt;
+      &lt;!-- build time:Wed Jun 17 2020 17:11:50 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node和浏览器中事件循环机制的区别。&lt;/p&gt;
     
     </summary>
     
@@ -200,7 +200,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jun 16 2020 19:04:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录会话通信的方式，Session，Cookie，Token这三种的方式的详情。&lt;/p&gt;
+      &lt;!-- build time:Wed Jun 17 2020 17:11:50 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录会话通信的方式，Session，Cookie，Token这三种的方式的详情。&lt;/p&gt;
     
     </summary>
     
@@ -233,7 +233,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jun 16 2020 19:04:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录前端的存储方式：Cookie、SessionStorage、LocalStorage的使用、区别、使用场景等。&lt;/p&gt;
+      &lt;!-- build time:Wed Jun 17 2020 17:11:50 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录前端的存储方式：Cookie、SessionStorage、LocalStorage的使用、区别、使用场景等。&lt;/p&gt;
     
     </summary>
     
@@ -266,7 +266,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jun 16 2020 19:04:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录HTTP1.0、HTTP1.1、HTTP2.0的区别。&lt;/p&gt;
+      &lt;!-- build time:Wed Jun 17 2020 17:11:50 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录HTTP1.0、HTTP1.1、HTTP2.0的区别。&lt;/p&gt;
     
     </summary>
     
@@ -287,7 +287,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jun 16 2020 19:04:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要详细记录 CSS3 的 box-shadow 大全。&lt;/p&gt;
+      &lt;!-- build time:Wed Jun 17 2020 17:11:50 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要详细记录 CSS3 的 box-shadow 大全。&lt;/p&gt;
     
     </summary>
     
@@ -312,7 +312,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jun 16 2020 19:04:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录TCP建立连接需要三次握手和断开连接需要四次挥手的详解。&lt;/p&gt;
+      &lt;!-- build time:Wed Jun 17 2020 17:11:50 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录TCP建立连接需要三次握手和断开连接需要四次挥手的详解。&lt;/p&gt;
     
     </summary>
     
@@ -339,7 +339,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jun 16 2020 19:04:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录一些进阶型的面试问题：TCP三次握手、&lt;code&gt;Cookie/SessionStorage/LocalStroage&lt;/code&gt;区别、XSS攻击、浏览器和Node事件循环区别、HTTPS中间人攻击这几个问题。&lt;/p&gt;&lt;p&gt;原链接名：《30道经典面试题》&lt;/p&gt;
+      &lt;!-- build time:Wed Jun 17 2020 17:11:50 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录一些进阶型的面试问题：TCP三次握手、&lt;code&gt;Cookie/SessionStorage/LocalStroage&lt;/code&gt;区别、XSS攻击、浏览器和Node事件循环区别、HTTPS中间人攻击这几个问题。&lt;/p&gt;&lt;p&gt;原链接名：《30道经典面试题》&lt;/p&gt;
     
     </summary>
     
@@ -364,7 +364,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jun 16 2020 19:04:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录从一到面试题引出的 &lt;code&gt;setTimeout&lt;/code&gt;, &lt;code&gt;Promise&lt;/code&gt;, &lt;code&gt;async/await&lt;/code&gt; 的区别。&lt;/p&gt;
+      &lt;!-- build time:Wed Jun 17 2020 17:11:50 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录从一到面试题引出的 &lt;code&gt;setTimeout&lt;/code&gt;, &lt;code&gt;Promise&lt;/code&gt;, &lt;code&gt;async/await&lt;/code&gt; 的区别。&lt;/p&gt;
     
     </summary>
     
@@ -395,7 +395,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jun 16 2020 19:04:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录一些进阶型的面试问题：&lt;code&gt;Promise/Async/Await&lt;/code&gt;执行顺序、定时器的执行顺序或机制、&lt;code&gt;[&amp;#39;1&amp;#39;,&amp;#39;2&amp;#39;,&amp;#39;3&amp;#39;].map(parseInt)&lt;/code&gt;、&lt;code&gt;Doctype&lt;/code&gt; 作用、&lt;code&gt;fetch&lt;/code&gt; 发送 2 次请求的原因这几个问题。&lt;/p&gt;&lt;p&gt;原链接名：《30道经典面试题》&lt;/p&gt;
+      &lt;!-- build time:Wed Jun 17 2020 17:11:50 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录一些进阶型的面试问题：&lt;code&gt;Promise/Async/Await&lt;/code&gt;执行顺序、定时器的执行顺序或机制、&lt;code&gt;[&amp;#39;1&amp;#39;,&amp;#39;2&amp;#39;,&amp;#39;3&amp;#39;].map(parseInt)&lt;/code&gt;、&lt;code&gt;Doctype&lt;/code&gt; 作用、&lt;code&gt;fetch&lt;/code&gt; 发送 2 次请求的原因这几个问题。&lt;/p&gt;&lt;p&gt;原链接名：《30道经典面试题》&lt;/p&gt;
     
     </summary>
     
@@ -420,7 +420,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jun 16 2020 19:04:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript中的 &lt;code&gt;call()&lt;/code&gt; 、&lt;code&gt;apply()&lt;/code&gt;、&lt;code&gt;bind()&lt;/code&gt; 方法。&lt;/p&gt;
+      &lt;!-- build time:Wed Jun 17 2020 17:11:50 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript中的 &lt;code&gt;call()&lt;/code&gt; 、&lt;code&gt;apply()&lt;/code&gt;、&lt;code&gt;bind()&lt;/code&gt; 方法。&lt;/p&gt;
     
     </summary>
     
@@ -449,7 +449,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jun 16 2020 19:04:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript中字面量的详解。&lt;/p&gt;
+      &lt;!-- build time:Wed Jun 17 2020 17:11:50 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript中字面量的详解。&lt;/p&gt;
     
     </summary>
     
@@ -476,7 +476,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jun 16 2020 19:04:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript的设计模式-单例模式。&lt;/p&gt;
+      &lt;!-- build time:Wed Jun 17 2020 17:11:50 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript的设计模式-单例模式。&lt;/p&gt;
     
     </summary>
     
@@ -503,7 +503,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jun 16 2020 19:04:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript模块化的几个重要发展阶段，无模块化，CommonJS，AMD规范，CMD规范，ES6模块化。&lt;/p&gt;
+      &lt;!-- build time:Wed Jun 17 2020 17:11:50 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript模块化的几个重要发展阶段，无模块化，CommonJS，AMD规范，CMD规范，ES6模块化。&lt;/p&gt;
     
     </summary>
     
@@ -532,7 +532,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jun 16 2020 19:04:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录工作总常用的一些工具方法集合，也适用于vue项目中的utlils目录下的方法整理。为方便使用，这里已模块化方式书写。&lt;/p&gt;
+      &lt;!-- build time:Wed Jun 17 2020 17:11:50 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录工作总常用的一些工具方法集合，也适用于vue项目中的utlils目录下的方法整理。为方便使用，这里已模块化方式书写。&lt;/p&gt;
     
     </summary>
     
