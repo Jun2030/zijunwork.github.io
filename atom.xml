@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://20202030.cc/"/>
-  <updated>2020-06-22T02:56:07.000Z</updated>
+  <updated>2020-07-01T02:44:43.000Z</updated>
   <id>https://20202030.cc/</id>
   
   <author>
@@ -17,6 +17,62 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>JavaScript算法-最长重复子数组</title>
+    <link href="https://20202030.cc/archives/1ddc8c9a.html"/>
+    <id>https://20202030.cc/archives/1ddc8c9a.html</id>
+    <published>2020-07-01T02:44:43.000Z</published>
+    <updated>2020-07-01T02:44:43.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Wed Jul 01 2020 17:59:41 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;给两个整数数组 &lt;code&gt;A&lt;/code&gt; 和 &lt;code&gt;B&lt;/code&gt; ，返回两个数组中公共的、长度最长的子数组的长度。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="前端" scheme="https://20202030.cc/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+      <category term="JavaScript" scheme="https://20202030.cc/categories/%E5%89%8D%E7%AB%AF/JavaScript/"/>
+    
+      <category term="算法" scheme="https://20202030.cc/categories/%E5%89%8D%E7%AB%AF/JavaScript/%E7%AE%97%E6%B3%95/"/>
+    
+    
+      <category term="JavaScript" scheme="https://20202030.cc/tags/JavaScript/"/>
+    
+      <category term="算法" scheme="https://20202030.cc/tags/%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript进阶-隐式转换</title>
+    <link href="https://20202030.cc/archives/db8c76a2.html"/>
+    <id>https://20202030.cc/archives/db8c76a2.html</id>
+    <published>2020-06-29T02:51:19.000Z</published>
+    <updated>2020-06-29T02:51:19.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Wed Jul 01 2020 17:59:41 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript中 &lt;code&gt;valueOf&lt;/code&gt; 和 &lt;code&gt;toString&lt;/code&gt; 的隐式调用。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="前端" scheme="https://20202030.cc/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+      <category term="JavaScript" scheme="https://20202030.cc/categories/%E5%89%8D%E7%AB%AF/JavaScript/"/>
+    
+      <category term="进阶" scheme="https://20202030.cc/categories/%E5%89%8D%E7%AB%AF/JavaScript/%E8%BF%9B%E9%98%B6/"/>
+    
+    
+      <category term="前端" scheme="https://20202030.cc/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+      <category term="ToString" scheme="https://20202030.cc/tags/ToString/"/>
+    
+      <category term="ValueOf" scheme="https://20202030.cc/tags/ValueOf/"/>
+    
+  </entry>
+  
+  <entry>
     <title>JavaScript进阶-高阶函数</title>
     <link href="https://20202030.cc/archives/af81bd5c.html"/>
     <id>https://20202030.cc/archives/af81bd5c.html</id>
@@ -25,7 +81,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Sun Jun 28 2020 17:54:41 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript中的一个少说但是实际经常使用的名词 - 高阶函数。&lt;/p&gt;
+      &lt;!-- build time:Wed Jul 01 2020 17:59:41 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript中的一个少说但是实际经常使用的名词 - 高阶函数。&lt;/p&gt;
     
     </summary>
     
@@ -46,7 +102,7 @@
   </entry>
   
   <entry>
-    <title>JavaScript-数组遍历对比</title>
+    <title>JavaScript进阶-数组遍历对比</title>
     <link href="https://20202030.cc/archives/df1d3395.html"/>
     <id>https://20202030.cc/archives/df1d3395.html</id>
     <published>2020-06-19T07:08:39.000Z</published>
@@ -54,7 +110,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Sun Jun 28 2020 17:54:41 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript中数组的遍历方法，及性能对比。&lt;/p&gt;
+      &lt;!-- build time:Wed Jul 01 2020 17:59:41 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript中数组的遍历方法，及性能对比。&lt;/p&gt;
     
     </summary>
     
@@ -83,7 +139,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Sun Jun 28 2020 17:54:41 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录后端由于没有分页，一次性返回了10万条数据，前端如何渲染的问题。&lt;/p&gt;
+      &lt;!-- build time:Wed Jul 01 2020 17:59:41 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录后端由于没有分页，一次性返回了10万条数据，前端如何渲染的问题。&lt;/p&gt;
     
     </summary>
     
@@ -106,7 +162,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Sun Jun 28 2020 17:54:41 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录网页性能-浏览器解析HTML、CSS、JavaScript的过程记录。&lt;/p&gt;
+      &lt;!-- build time:Wed Jul 01 2020 17:59:41 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录网页性能-浏览器解析HTML、CSS、JavaScript的过程记录。&lt;/p&gt;
     
     </summary>
     
@@ -131,7 +187,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Sun Jun 28 2020 17:54:41 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录页面的回流和重绘，以及相关优化。&lt;/p&gt;
+      &lt;!-- build time:Wed Jul 01 2020 17:59:41 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录页面的回流和重绘，以及相关优化。&lt;/p&gt;
     
     </summary>
     
@@ -158,7 +214,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Sun Jun 28 2020 17:54:41 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录前端预加载技术。&lt;/p&gt;
+      &lt;!-- build time:Wed Jul 01 2020 17:59:41 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录前端预加载技术。&lt;/p&gt;
     
     </summary>
     
@@ -183,7 +239,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Sun Jun 28 2020 17:54:41 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录HTTP协议缓存机制的详解。&lt;/p&gt;
+      &lt;!-- build time:Wed Jul 01 2020 17:59:41 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录HTTP协议缓存机制的详解。&lt;/p&gt;
     
     </summary>
     
@@ -206,7 +262,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Sun Jun 28 2020 17:54:41 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录前端的一些优化处理技巧的整理，比如如何快速渲染大量图片，如何提高页面加载速度等。&lt;/p&gt;
+      &lt;!-- build time:Wed Jul 01 2020 17:59:41 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录前端的一些优化处理技巧的整理，比如如何快速渲染大量图片，如何提高页面加载速度等。&lt;/p&gt;
     
     </summary>
     
@@ -229,7 +285,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Sun Jun 28 2020 17:54:40 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录一些进阶型的面试问题：前端优化策略、重绘和回流、Vue列表渲染Key、为什么虚拟Dom会提高性能、清除浮动方式。&lt;/p&gt;&lt;p&gt;原链接名：《30道经典面试题》&lt;/p&gt;
+      &lt;!-- build time:Wed Jul 01 2020 17:59:41 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录一些进阶型的面试问题：前端优化策略、重绘和回流、Vue列表渲染Key、为什么虚拟Dom会提高性能、清除浮动方式。&lt;/p&gt;&lt;p&gt;原链接名：《30道经典面试题》&lt;/p&gt;
     
     </summary>
     
@@ -254,7 +310,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Sun Jun 28 2020 17:54:41 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node和浏览器中事件循环机制的区别。&lt;/p&gt;
+      &lt;!-- build time:Wed Jul 01 2020 17:59:41 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node和浏览器中事件循环机制的区别。&lt;/p&gt;
     
     </summary>
     
@@ -281,7 +337,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Sun Jun 28 2020 17:54:41 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录会话通信的方式，Session，Cookie，Token这三种的方式的详情。&lt;/p&gt;
+      &lt;!-- build time:Wed Jul 01 2020 17:59:41 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录会话通信的方式，Session，Cookie，Token这三种的方式的详情。&lt;/p&gt;
     
     </summary>
     
@@ -314,7 +370,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Sun Jun 28 2020 17:54:41 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录前端的存储方式：Cookie、SessionStorage、LocalStorage的使用、区别、使用场景等。&lt;/p&gt;
+      &lt;!-- build time:Wed Jul 01 2020 17:59:41 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录前端的存储方式：Cookie、SessionStorage、LocalStorage的使用、区别、使用场景等。&lt;/p&gt;
     
     </summary>
     
@@ -347,7 +403,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Sun Jun 28 2020 17:54:40 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录HTTP1.0、HTTP1.1、HTTP2.0的区别。&lt;/p&gt;
+      &lt;!-- build time:Wed Jul 01 2020 17:59:41 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录HTTP1.0、HTTP1.1、HTTP2.0的区别。&lt;/p&gt;
     
     </summary>
     
@@ -368,7 +424,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Sun Jun 28 2020 17:54:40 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要详细记录 CSS3 的 box-shadow 大全。&lt;/p&gt;
+      &lt;!-- build time:Wed Jul 01 2020 17:59:41 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要详细记录 CSS3 的 box-shadow 大全。&lt;/p&gt;
     
     </summary>
     
@@ -393,7 +449,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Sun Jun 28 2020 17:54:41 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录TCP建立连接需要三次握手和断开连接需要四次挥手的详解。&lt;/p&gt;
+      &lt;!-- build time:Wed Jul 01 2020 17:59:41 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录TCP建立连接需要三次握手和断开连接需要四次挥手的详解。&lt;/p&gt;
     
     </summary>
     
@@ -420,7 +476,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Sun Jun 28 2020 17:54:40 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录一些进阶型的面试问题：TCP三次握手、&lt;code&gt;Cookie/SessionStorage/LocalStroage&lt;/code&gt;区别、XSS攻击、浏览器和Node事件循环区别、HTTPS中间人攻击这几个问题。&lt;/p&gt;&lt;p&gt;原链接名：《30道经典面试题》&lt;/p&gt;
+      &lt;!-- build time:Wed Jul 01 2020 17:59:41 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录一些进阶型的面试问题：TCP三次握手、&lt;code&gt;Cookie/SessionStorage/LocalStroage&lt;/code&gt;区别、XSS攻击、浏览器和Node事件循环区别、HTTPS中间人攻击这几个问题。&lt;/p&gt;&lt;p&gt;原链接名：《30道经典面试题》&lt;/p&gt;
     
     </summary>
     
@@ -445,7 +501,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Sun Jun 28 2020 17:54:41 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录从一到面试题引出的 &lt;code&gt;setTimeout&lt;/code&gt;, &lt;code&gt;Promise&lt;/code&gt;, &lt;code&gt;async/await&lt;/code&gt; 的区别。&lt;/p&gt;
+      &lt;!-- build time:Wed Jul 01 2020 17:59:41 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录从一到面试题引出的 &lt;code&gt;setTimeout&lt;/code&gt;, &lt;code&gt;Promise&lt;/code&gt;, &lt;code&gt;async/await&lt;/code&gt; 的区别。&lt;/p&gt;
     
     </summary>
     
@@ -476,7 +532,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Sun Jun 28 2020 17:54:40 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录一些进阶型的面试问题：&lt;code&gt;Promise/Async/Await&lt;/code&gt;执行顺序、定时器的执行顺序或机制、&lt;code&gt;[&amp;#39;1&amp;#39;,&amp;#39;2&amp;#39;,&amp;#39;3&amp;#39;].map(parseInt)&lt;/code&gt;、&lt;code&gt;Doctype&lt;/code&gt; 作用、&lt;code&gt;fetch&lt;/code&gt; 发送 2 次请求的原因这几个问题。&lt;/p&gt;&lt;p&gt;原链接名：《30道经典面试题》&lt;/p&gt;
+      &lt;!-- build time:Wed Jul 01 2020 17:59:41 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录一些进阶型的面试问题：&lt;code&gt;Promise/Async/Await&lt;/code&gt;执行顺序、定时器的执行顺序或机制、&lt;code&gt;[&amp;#39;1&amp;#39;,&amp;#39;2&amp;#39;,&amp;#39;3&amp;#39;].map(parseInt)&lt;/code&gt;、&lt;code&gt;Doctype&lt;/code&gt; 作用、&lt;code&gt;fetch&lt;/code&gt; 发送 2 次请求的原因这几个问题。&lt;/p&gt;&lt;p&gt;原链接名：《30道经典面试题》&lt;/p&gt;
     
     </summary>
     
@@ -489,62 +545,6 @@
       <category term="面试" scheme="https://20202030.cc/tags/%E9%9D%A2%E8%AF%95/"/>
     
       <category term="JavaScript" scheme="https://20202030.cc/tags/JavaScript/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>JavaScript进阶-ApplyCall</title>
-    <link href="https://20202030.cc/archives/495da9ad.html"/>
-    <id>https://20202030.cc/archives/495da9ad.html</id>
-    <published>2020-05-23T02:55:36.000Z</published>
-    <updated>2020-05-23T02:55:36.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Sun Jun 28 2020 17:54:41 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript中的 &lt;code&gt;call()&lt;/code&gt; 、&lt;code&gt;apply()&lt;/code&gt;、&lt;code&gt;bind()&lt;/code&gt; 方法。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="前端" scheme="https://20202030.cc/categories/%E5%89%8D%E7%AB%AF/"/>
-    
-      <category term="JavaScript" scheme="https://20202030.cc/categories/%E5%89%8D%E7%AB%AF/JavaScript/"/>
-    
-      <category term="进阶" scheme="https://20202030.cc/categories/%E5%89%8D%E7%AB%AF/JavaScript/%E8%BF%9B%E9%98%B6/"/>
-    
-    
-      <category term="JavaScript" scheme="https://20202030.cc/tags/JavaScript/"/>
-    
-      <category term="Apply" scheme="https://20202030.cc/tags/Apply/"/>
-    
-      <category term="Call" scheme="https://20202030.cc/tags/Call/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>JavaScript进阶-字面量</title>
-    <link href="https://20202030.cc/archives/3d4f90ed.html"/>
-    <id>https://20202030.cc/archives/3d4f90ed.html</id>
-    <published>2020-05-22T07:01:33.000Z</published>
-    <updated>2020-05-22T07:01:33.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Sun Jun 28 2020 17:54:41 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript中字面量的详解。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="前端" scheme="https://20202030.cc/categories/%E5%89%8D%E7%AB%AF/"/>
-    
-      <category term="JavaScript" scheme="https://20202030.cc/categories/%E5%89%8D%E7%AB%AF/JavaScript/"/>
-    
-      <category term="进阶" scheme="https://20202030.cc/categories/%E5%89%8D%E7%AB%AF/JavaScript/%E8%BF%9B%E9%98%B6/"/>
-    
-    
-      <category term="JavaScript" scheme="https://20202030.cc/tags/JavaScript/"/>
-    
-      <category term="字面量" scheme="https://20202030.cc/tags/%E5%AD%97%E9%9D%A2%E9%87%8F/"/>
     
   </entry>
   
