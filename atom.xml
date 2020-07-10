@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://20202030.cc/"/>
-  <updated>2020-07-06T12:27:46.000Z</updated>
+  <updated>2020-07-08T02:40:15.000Z</updated>
   <id>https://20202030.cc/</id>
   
   <author>
@@ -17,6 +17,29 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Vue集成3-样式优化</title>
+    <link href="https://20202030.cc/archives/90bef2f9.html"/>
+    <id>https://20202030.cc/archives/90bef2f9.html</id>
+    <published>2020-07-08T02:40:15.000Z</published>
+    <updated>2020-07-08T02:40:15.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Fri Jul 10 2020 20:02:47 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Vue项目基于 &lt;code&gt;Vue&lt;/code&gt; + &lt;code&gt;Vant&lt;/code&gt; 的二次集成及优化。以便开箱即用。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Vue" scheme="https://20202030.cc/categories/Vue/"/>
+    
+      <category term="集成" scheme="https://20202030.cc/categories/Vue/%E9%9B%86%E6%88%90/"/>
+    
+    
+      <category term="集成" scheme="https://20202030.cc/tags/%E9%9B%86%E6%88%90/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Vue集成2:配置优化</title>
     <link href="https://20202030.cc/archives/13614b08.html"/>
     <id>https://20202030.cc/archives/13614b08.html</id>
@@ -25,7 +48,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jul 07 2020 20:34:11 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Vue项目基于 &lt;code&gt;Vue&lt;/code&gt; + &lt;code&gt;Vant&lt;/code&gt; 的二次集成及优化。以便开箱即用。&lt;/p&gt;
+      &lt;!-- build time:Fri Jul 10 2020 20:02:47 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Vue项目基于 &lt;code&gt;Vue&lt;/code&gt; + &lt;code&gt;Vant&lt;/code&gt; 的二次集成及优化。以便开箱即用。&lt;/p&gt;
     
     </summary>
     
@@ -48,7 +71,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jul 07 2020 20:34:10 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Vue项目基于 &lt;code&gt;Vue&lt;/code&gt; + &lt;code&gt;Vant&lt;/code&gt; 的二次集成及优化。以便开箱即用。&lt;/p&gt;
+      &lt;!-- build time:Fri Jul 10 2020 20:02:47 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Vue项目基于 &lt;code&gt;Vue&lt;/code&gt; + &lt;code&gt;Vant&lt;/code&gt; 的二次集成及优化。以便开箱即用。&lt;/p&gt;
     
     </summary>
     
@@ -71,7 +94,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jul 07 2020 20:34:10 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录原型和原型链的简单式理解。&lt;/p&gt;
+      &lt;!-- build time:Fri Jul 10 2020 20:02:47 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录原型和原型链的简单式理解。&lt;/p&gt;
     
     </summary>
     
@@ -100,7 +123,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jul 07 2020 20:34:10 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript秘密花园-对象。&lt;/p&gt;
+      &lt;!-- build time:Fri Jul 10 2020 20:02:47 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript秘密花园-对象。&lt;/p&gt;
     
     </summary>
     
@@ -127,7 +150,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jul 07 2020 20:34:10 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;给两个整数数组 &lt;code&gt;A&lt;/code&gt; 和 &lt;code&gt;B&lt;/code&gt; ，返回两个数组中公共的、长度最长的子数组的长度。&lt;/p&gt;
+      &lt;!-- build time:Fri Jul 10 2020 20:02:47 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;给两个整数数组 &lt;code&gt;A&lt;/code&gt; 和 &lt;code&gt;B&lt;/code&gt; ，返回两个数组中公共的、长度最长的子数组的长度。&lt;/p&gt;
     
     </summary>
     
@@ -154,7 +177,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jul 07 2020 20:34:10 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript中 &lt;code&gt;valueOf&lt;/code&gt; 和 &lt;code&gt;toString&lt;/code&gt; 的隐式调用。&lt;/p&gt;
+      &lt;!-- build time:Fri Jul 10 2020 20:02:47 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript中 &lt;code&gt;valueOf&lt;/code&gt; 和 &lt;code&gt;toString&lt;/code&gt; 的隐式调用。&lt;/p&gt;
     
     </summary>
     
@@ -183,7 +206,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jul 07 2020 20:34:10 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript中的一个少说但是实际经常使用的名词 - 高阶函数。&lt;/p&gt;
+      &lt;!-- build time:Fri Jul 10 2020 20:02:47 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript中的一个少说但是实际经常使用的名词 - 高阶函数。&lt;/p&gt;
     
     </summary>
     
@@ -212,7 +235,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jul 07 2020 20:34:10 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript中数组的遍历方法，及性能对比。&lt;/p&gt;
+      &lt;!-- build time:Fri Jul 10 2020 20:02:47 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript中数组的遍历方法，及性能对比。&lt;/p&gt;
     
     </summary>
     
@@ -241,7 +264,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jul 07 2020 20:34:10 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录后端由于没有分页，一次性返回了10万条数据，前端如何渲染的问题。&lt;/p&gt;
+      &lt;!-- build time:Fri Jul 10 2020 20:02:47 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录后端由于没有分页，一次性返回了10万条数据，前端如何渲染的问题。&lt;/p&gt;
     
     </summary>
     
@@ -264,7 +287,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jul 07 2020 20:34:10 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录网页性能-浏览器解析HTML、CSS、JavaScript的过程记录。&lt;/p&gt;
+      &lt;!-- build time:Fri Jul 10 2020 20:02:47 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录网页性能-浏览器解析HTML、CSS、JavaScript的过程记录。&lt;/p&gt;
     
     </summary>
     
@@ -289,7 +312,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jul 07 2020 20:34:10 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录页面的回流和重绘，以及相关优化。&lt;/p&gt;
+      &lt;!-- build time:Fri Jul 10 2020 20:02:47 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录页面的回流和重绘，以及相关优化。&lt;/p&gt;
     
     </summary>
     
@@ -316,7 +339,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jul 07 2020 20:34:10 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录前端预加载技术。&lt;/p&gt;
+      &lt;!-- build time:Fri Jul 10 2020 20:02:47 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录前端预加载技术。&lt;/p&gt;
     
     </summary>
     
@@ -341,7 +364,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jul 07 2020 20:34:10 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录HTTP协议缓存机制的详解。&lt;/p&gt;
+      &lt;!-- build time:Fri Jul 10 2020 20:02:47 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录HTTP协议缓存机制的详解。&lt;/p&gt;
     
     </summary>
     
@@ -364,7 +387,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jul 07 2020 20:34:10 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录前端的一些优化处理技巧的整理，比如如何快速渲染大量图片，如何提高页面加载速度等。&lt;/p&gt;
+      &lt;!-- build time:Fri Jul 10 2020 20:02:47 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录前端的一些优化处理技巧的整理，比如如何快速渲染大量图片，如何提高页面加载速度等。&lt;/p&gt;
     
     </summary>
     
@@ -387,7 +410,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jul 07 2020 20:34:10 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录一些进阶型的面试问题：前端优化策略、重绘和回流、Vue列表渲染Key、为什么虚拟Dom会提高性能、清除浮动方式。&lt;/p&gt;&lt;p&gt;原链接名：《30道经典面试题》&lt;/p&gt;
+      &lt;!-- build time:Fri Jul 10 2020 20:02:47 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录一些进阶型的面试问题：前端优化策略、重绘和回流、Vue列表渲染Key、为什么虚拟Dom会提高性能、清除浮动方式。&lt;/p&gt;&lt;p&gt;原链接名：《30道经典面试题》&lt;/p&gt;
     
     </summary>
     
@@ -412,7 +435,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jul 07 2020 20:34:10 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node和浏览器中事件循环机制的区别。&lt;/p&gt;
+      &lt;!-- build time:Fri Jul 10 2020 20:02:47 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node和浏览器中事件循环机制的区别。&lt;/p&gt;
     
     </summary>
     
@@ -439,7 +462,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jul 07 2020 20:34:10 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录会话通信的方式，Session，Cookie，Token这三种的方式的详情。&lt;/p&gt;
+      &lt;!-- build time:Fri Jul 10 2020 20:02:47 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录会话通信的方式，Session，Cookie，Token这三种的方式的详情。&lt;/p&gt;
     
     </summary>
     
@@ -472,7 +495,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jul 07 2020 20:34:10 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录前端的存储方式：Cookie、SessionStorage、LocalStorage的使用、区别、使用场景等。&lt;/p&gt;
+      &lt;!-- build time:Fri Jul 10 2020 20:02:47 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录前端的存储方式：Cookie、SessionStorage、LocalStorage的使用、区别、使用场景等。&lt;/p&gt;
     
     </summary>
     
@@ -505,7 +528,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Jul 07 2020 20:34:10 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录HTTP1.0、HTTP1.1、HTTP2.0的区别。&lt;/p&gt;
+      &lt;!-- build time:Fri Jul 10 2020 20:02:47 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录HTTP1.0、HTTP1.1、HTTP2.0的区别。&lt;/p&gt;
     
     </summary>
     
@@ -514,31 +537,6 @@
     
     
       <category term="HTTP" scheme="https://20202030.cc/tags/HTTP/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CSS阴影Box-Shadow</title>
-    <link href="https://20202030.cc/archives/d371c450.html"/>
-    <id>https://20202030.cc/archives/d371c450.html</id>
-    <published>2020-05-28T08:49:28.000Z</published>
-    <updated>2020-05-28T08:49:28.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Tue Jul 07 2020 20:34:10 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要详细记录 CSS3 的 box-shadow 大全。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="前端" scheme="https://20202030.cc/categories/%E5%89%8D%E7%AB%AF/"/>
-    
-      <category term="CSS" scheme="https://20202030.cc/categories/%E5%89%8D%E7%AB%AF/CSS/"/>
-    
-    
-      <category term="CSS" scheme="https://20202030.cc/tags/CSS/"/>
-    
-      <category term="Box-Shadow" scheme="https://20202030.cc/tags/Box-Shadow/"/>
     
   </entry>
   
