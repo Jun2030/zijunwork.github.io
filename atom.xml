@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://20202030.cc/"/>
-  <updated>2020-08-04T02:14:28.000Z</updated>
+  <updated>2020-08-28T09:24:47.000Z</updated>
   <id>https://20202030.cc/</id>
   
   <author>
@@ -17,27 +17,83 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>微信小程序-基础整理</title>
-    <link href="https://20202030.cc/archives/46a94d18.html"/>
-    <id>https://20202030.cc/archives/46a94d18.html</id>
-    <published>2020-08-04T02:14:28.000Z</published>
-    <updated>2020-08-04T02:14:28.000Z</updated>
+    <title>音乐小程序云03-实现组件</title>
+    <link href="https://20202030.cc/archives/524c5d04.html"/>
+    <id>https://20202030.cc/archives/524c5d04.html</id>
+    <published>2020-08-28T09:24:47.000Z</published>
+    <updated>2020-08-28T09:24:47.000Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Aug 20 2020 10:53:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录微信小程序的基础整理笔记。&lt;/p&gt;
+      &lt;!-- build time:Fri Aug 28 2020 18:09:17 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录小程序云开发学习 - 实现组件。&lt;/p&gt;
     
     </summary>
     
     
       <category term="小程序" scheme="https://20202030.cc/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
     
-      <category term="基础" scheme="https://20202030.cc/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/%E5%9F%BA%E7%A1%80/"/>
+      <category term="音乐小程序" scheme="https://20202030.cc/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/%E9%9F%B3%E4%B9%90%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
     
     
       <category term="小程序" scheme="https://20202030.cc/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
     
       <category term="微信小程序" scheme="https://20202030.cc/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+      <category term="音乐小程序" scheme="https://20202030.cc/tags/%E9%9F%B3%E4%B9%90%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>音乐小程序云02-基础构建</title>
+    <link href="https://20202030.cc/archives/26b23292.html"/>
+    <id>https://20202030.cc/archives/26b23292.html</id>
+    <published>2020-08-24T09:24:47.000Z</published>
+    <updated>2020-08-24T09:24:47.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Fri Aug 28 2020 18:09:17 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录小程序云开发学习 - 基础构建。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="小程序" scheme="https://20202030.cc/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+      <category term="音乐小程序" scheme="https://20202030.cc/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/%E9%9F%B3%E4%B9%90%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+    
+      <category term="小程序" scheme="https://20202030.cc/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+      <category term="微信小程序" scheme="https://20202030.cc/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+      <category term="音乐小程序" scheme="https://20202030.cc/tags/%E9%9F%B3%E4%B9%90%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>音乐小程序云01-介绍</title>
+    <link href="https://20202030.cc/archives/bfbb6328.html"/>
+    <id>https://20202030.cc/archives/bfbb6328.html</id>
+    <published>2020-08-24T07:34:35.000Z</published>
+    <updated>2020-08-24T07:34:35.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Fri Aug 28 2020 18:09:17 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录小程序云开发学习 - 介绍。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="小程序" scheme="https://20202030.cc/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+      <category term="音乐小程序" scheme="https://20202030.cc/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/%E9%9F%B3%E4%B9%90%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+    
+      <category term="小程序" scheme="https://20202030.cc/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+      <category term="微信小程序" scheme="https://20202030.cc/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+      <category term="音乐小程序" scheme="https://20202030.cc/tags/%E9%9F%B3%E4%B9%90%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
     
   </entry>
   
@@ -50,7 +106,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Aug 20 2020 14:28:38 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Vue项目基于 &lt;code&gt;Vue&lt;/code&gt; + &lt;code&gt;Vant&lt;/code&gt; 的二次集成及优化。以便开箱即用。&lt;/p&gt;
+      &lt;!-- build time:Fri Aug 28 2020 18:09:17 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Vue项目基于 &lt;code&gt;Vue&lt;/code&gt; + &lt;code&gt;Vant&lt;/code&gt; 的二次集成及优化。以便开箱即用。&lt;/p&gt;
     
     </summary>
     
@@ -73,7 +129,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Aug 20 2020 14:09:32 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Vue项目基于 &lt;code&gt;Vue&lt;/code&gt; + &lt;code&gt;Vant&lt;/code&gt; 的二次集成及优化。以便开箱即用。&lt;/p&gt;
+      &lt;!-- build time:Fri Aug 28 2020 18:09:17 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Vue项目基于 &lt;code&gt;Vue&lt;/code&gt; + &lt;code&gt;Vant&lt;/code&gt; 的二次集成及优化。以便开箱即用。&lt;/p&gt;
     
     </summary>
     
@@ -96,7 +152,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Aug 20 2020 11:47:23 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Vue项目基于 &lt;code&gt;Vue&lt;/code&gt; + &lt;code&gt;Vant&lt;/code&gt; 的二次集成及优化。以便开箱即用。&lt;/p&gt;
+      &lt;!-- build time:Fri Aug 28 2020 18:09:17 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Vue项目基于 &lt;code&gt;Vue&lt;/code&gt; + &lt;code&gt;Vant&lt;/code&gt; 的二次集成及优化。以便开箱即用。&lt;/p&gt;
     
     </summary>
     
@@ -119,7 +175,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Aug 20 2020 10:53:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Vue项目基于 &lt;code&gt;Vue&lt;/code&gt; + &lt;code&gt;Vant&lt;/code&gt; 的二次集成及优化。以便开箱即用。&lt;/p&gt;
+      &lt;!-- build time:Fri Aug 28 2020 18:09:17 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Vue项目基于 &lt;code&gt;Vue&lt;/code&gt; + &lt;code&gt;Vant&lt;/code&gt; 的二次集成及优化。以便开箱即用。&lt;/p&gt;
     
     </summary>
     
@@ -142,7 +198,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Aug 20 2020 10:53:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录原型和原型链的简单式理解。&lt;/p&gt;
+      &lt;!-- build time:Fri Aug 28 2020 18:09:17 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录原型和原型链的简单式理解。&lt;/p&gt;
     
     </summary>
     
@@ -171,7 +227,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Aug 20 2020 10:53:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript秘密花园-对象。&lt;/p&gt;
+      &lt;!-- build time:Fri Aug 28 2020 18:09:17 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript秘密花园-对象。&lt;/p&gt;&lt;p&gt;原文地址：&lt;a href=&quot;http://bonsaiden.github.io/JavaScript-Garden/zh&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;JavaScript秘密花园&lt;/a&gt;&lt;/p&gt;
     
     </summary>
     
@@ -198,7 +254,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Aug 20 2020 10:53:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;给两个整数数组 &lt;code&gt;A&lt;/code&gt; 和 &lt;code&gt;B&lt;/code&gt; ，返回两个数组中公共的、长度最长的子数组的长度。&lt;/p&gt;
+      &lt;!-- build time:Fri Aug 28 2020 18:09:16 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;给两个整数数组 &lt;code&gt;A&lt;/code&gt; 和 &lt;code&gt;B&lt;/code&gt; ，返回两个数组中公共的、长度最长的子数组的长度。&lt;/p&gt;
     
     </summary>
     
@@ -225,7 +281,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Aug 20 2020 10:53:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript中 &lt;code&gt;valueOf&lt;/code&gt; 和 &lt;code&gt;toString&lt;/code&gt; 的隐式调用。&lt;/p&gt;
+      &lt;!-- build time:Fri Aug 28 2020 18:09:17 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript中 &lt;code&gt;valueOf&lt;/code&gt; 和 &lt;code&gt;toString&lt;/code&gt; 的隐式调用。&lt;/p&gt;
     
     </summary>
     
@@ -254,7 +310,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Aug 20 2020 10:53:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript中的一个少说但是实际经常使用的名词 - 高阶函数。&lt;/p&gt;
+      &lt;!-- build time:Fri Aug 28 2020 18:09:17 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript中的一个少说但是实际经常使用的名词 - 高阶函数。&lt;/p&gt;
     
     </summary>
     
@@ -283,7 +339,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Aug 20 2020 10:53:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript中数组的遍历方法，及性能对比。&lt;/p&gt;
+      &lt;!-- build time:Fri Aug 28 2020 18:09:17 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录JavaScript中数组的遍历方法，及性能对比。&lt;/p&gt;
     
     </summary>
     
@@ -312,7 +368,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Aug 20 2020 10:53:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录后端由于没有分页，一次性返回了10万条数据，前端如何渲染的问题。&lt;/p&gt;
+      &lt;!-- build time:Fri Aug 28 2020 18:09:17 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录后端由于没有分页，一次性返回了10万条数据，前端如何渲染的问题。&lt;/p&gt;
     
     </summary>
     
@@ -335,7 +391,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Aug 20 2020 10:53:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录网页性能-浏览器解析HTML、CSS、JavaScript的过程记录。&lt;/p&gt;
+      &lt;!-- build time:Fri Aug 28 2020 18:09:17 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录网页性能-浏览器解析HTML、CSS、JavaScript的过程记录。&lt;/p&gt;
     
     </summary>
     
@@ -360,7 +416,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Aug 20 2020 10:53:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录页面的回流和重绘，以及相关优化。&lt;/p&gt;
+      &lt;!-- build time:Fri Aug 28 2020 18:09:16 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录页面的回流和重绘，以及相关优化。&lt;/p&gt;
     
     </summary>
     
@@ -387,7 +443,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Aug 20 2020 10:53:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录前端预加载技术。&lt;/p&gt;
+      &lt;!-- build time:Fri Aug 28 2020 18:09:17 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录前端预加载技术。&lt;/p&gt;
     
     </summary>
     
@@ -412,7 +468,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Aug 20 2020 10:53:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录HTTP协议缓存机制的详解。&lt;/p&gt;
+      &lt;!-- build time:Fri Aug 28 2020 18:09:17 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录HTTP协议缓存机制的详解。&lt;/p&gt;
     
     </summary>
     
@@ -435,7 +491,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Aug 20 2020 10:53:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录前端的一些优化处理技巧的整理，比如如何快速渲染大量图片，如何提高页面加载速度等。&lt;/p&gt;
+      &lt;!-- build time:Fri Aug 28 2020 18:09:17 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录前端的一些优化处理技巧的整理，比如如何快速渲染大量图片，如何提高页面加载速度等。&lt;/p&gt;
     
     </summary>
     
@@ -458,7 +514,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Aug 20 2020 10:53:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node和浏览器中事件循环机制的区别。&lt;/p&gt;
+      &lt;!-- build time:Fri Aug 28 2020 18:09:16 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node和浏览器中事件循环机制的区别。&lt;/p&gt;
     
     </summary>
     
@@ -473,72 +529,6 @@
       <category term="JavaScript" scheme="https://20202030.cc/tags/JavaScript/"/>
     
       <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>JavaScript基础-会话通信</title>
-    <link href="https://20202030.cc/archives/c9577b.html"/>
-    <id>https://20202030.cc/archives/c9577b.html</id>
-    <published>2020-06-04T10:03:23.000Z</published>
-    <updated>2020-06-04T10:03:23.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Thu Aug 20 2020 10:53:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录会话通信的方式，Session，Cookie，Token这三种的方式的详情。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="前端" scheme="https://20202030.cc/categories/%E5%89%8D%E7%AB%AF/"/>
-    
-      <category term="JavaScript" scheme="https://20202030.cc/categories/%E5%89%8D%E7%AB%AF/JavaScript/"/>
-    
-      <category term="基础" scheme="https://20202030.cc/categories/%E5%89%8D%E7%AB%AF/JavaScript/%E5%9F%BA%E7%A1%80/"/>
-    
-    
-      <category term="前端" scheme="https://20202030.cc/tags/%E5%89%8D%E7%AB%AF/"/>
-    
-      <category term="JavaScript" scheme="https://20202030.cc/tags/JavaScript/"/>
-    
-      <category term="Cookie" scheme="https://20202030.cc/tags/Cookie/"/>
-    
-      <category term="Session" scheme="https://20202030.cc/tags/Session/"/>
-    
-      <category term="Token" scheme="https://20202030.cc/tags/Token/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>JavaScript基础-Storage存储</title>
-    <link href="https://20202030.cc/archives/4fd295e0.html"/>
-    <id>https://20202030.cc/archives/4fd295e0.html</id>
-    <published>2020-06-04T07:23:58.000Z</published>
-    <updated>2020-06-04T07:23:58.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Thu Aug 20 2020 10:53:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录前端的存储方式：Cookie、SessionStorage、LocalStorage的使用、区别、使用场景等。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="前端" scheme="https://20202030.cc/categories/%E5%89%8D%E7%AB%AF/"/>
-    
-      <category term="JavaScript" scheme="https://20202030.cc/categories/%E5%89%8D%E7%AB%AF/JavaScript/"/>
-    
-      <category term="基础" scheme="https://20202030.cc/categories/%E5%89%8D%E7%AB%AF/JavaScript/%E5%9F%BA%E7%A1%80/"/>
-    
-    
-      <category term="前端" scheme="https://20202030.cc/tags/%E5%89%8D%E7%AB%AF/"/>
-    
-      <category term="JavaScript" scheme="https://20202030.cc/tags/JavaScript/"/>
-    
-      <category term="Cookie" scheme="https://20202030.cc/tags/Cookie/"/>
-    
-      <category term="SessionStorage" scheme="https://20202030.cc/tags/SessionStorage/"/>
-    
-      <category term="LocalStorage" scheme="https://20202030.cc/tags/LocalStorage/"/>
     
   </entry>
   
