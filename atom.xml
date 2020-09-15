@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>半径</title>
+  <icon>https://20202030.cc/icon.png</icon>
+  <subtitle>个人领域，开发笔记</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://20202030.cc/"/>
+  <updated>2020-09-15T11:58:25.000Z</updated>
+  <id>https://20202030.cc/</id>
+  
+  <author>
+    <name>Zi Jun</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Koa2-API-Router和获取参数</title>
+    <link href="https://20202030.cc/archives/32fb5a7e.html"/>
+    <id>https://20202030.cc/archives/32fb5a7e.html</id>
+    <published>2020-09-15T11:58:25.000Z</published>
+    <updated>2020-09-15T11:58:25.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Tue Sep 15 2020 20:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架开发API - 认识RESTfulAPI和Koa。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="服务端" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
+    
+      <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
+    
+      <category term="Koa2" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2/"/>
+    
+    
+      <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
+    
+      <category term="Koa2" scheme="https://20202030.cc/tags/Koa2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Koa2-API-认识RESTfulAPI和Koa</title>
+    <link href="https://20202030.cc/archives/df29e4e9.html"/>
+    <id>https://20202030.cc/archives/df29e4e9.html</id>
+    <published>2020-09-15T10:03:10.000Z</published>
+    <updated>2020-09-15T10:03:10.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Tue Sep 15 2020 20:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架开发API - 认识RESTfulAPI和Koa。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="服务端" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
+    
+      <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
+    
+      <category term="Koa2" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2/"/>
+    
+    
+      <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
+    
+      <category term="Koa2" scheme="https://20202030.cc/tags/Koa2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Koa2基础-跨域</title>
+    <link href="https://20202030.cc/archives/75f79f4b.html"/>
+    <id>https://20202030.cc/archives/75f79f4b.html</id>
+    <published>2020-09-15T09:09:13.000Z</published>
+    <updated>2020-09-15T09:09:13.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Tue Sep 15 2020 20:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架 -跨域问题。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="服务端" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
+    
+      <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
+    
+      <category term="Koa2" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2/"/>
+    
+    
+      <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
+    
+      <category term="Koa2" scheme="https://20202030.cc/tags/Koa2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Koa2基础-Cookie</title>
+    <link href="https://20202030.cc/archives/a016f7f2.html"/>
+    <id>https://20202030.cc/archives/a016f7f2.html</id>
+    <published>2020-09-15T06:51:27.000Z</published>
+    <updated>2020-09-15T06:51:27.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Tue Sep 15 2020 20:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架 - Cookie 和 Session 的使用。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="服务端" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
+    
+      <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
+    
+      <category term="Koa2" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2/"/>
+    
+    
+      <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
+    
+      <category term="Koa2" scheme="https://20202030.cc/tags/Koa2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Koa2基础-静态资源</title>
+    <link href="https://20202030.cc/archives/1e91a300.html"/>
+    <id>https://20202030.cc/archives/1e91a300.html</id>
+    <published>2020-09-14T12:05:48.000Z</published>
+    <updated>2020-09-14T12:05:48.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Tue Sep 15 2020 20:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架 - 静态资源及 koa-static 中间件。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="服务端" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
+    
+      <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
+    
+      <category term="Koa2" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2/"/>
+    
+    
+      <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
+    
+      <category term="Koa2" scheme="https://20202030.cc/tags/Koa2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Koa2基础-POST数据</title>
+    <link href="https://20202030.cc/archives/d4ef4e4f.html"/>
+    <id>https://20202030.cc/archives/d4ef4e4f.html</id>
+    <published>2020-09-14T11:43:37.000Z</published>
+    <updated>2020-09-14T11:43:37.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Tue Sep 15 2020 20:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架 - Post提交数据及 koa-bodyparser 中间件。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="服务端" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
+    
+      <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
+    
+      <category term="Koa2" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2/"/>
+    
+    
+      <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
+    
+      <category term="Koa2" scheme="https://20202030.cc/tags/Koa2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Koa2基础-EJS</title>
+    <link href="https://20202030.cc/archives/a89f95ce.html"/>
+    <id>https://20202030.cc/archives/a89f95ce.html</id>
+    <published>2020-09-14T11:42:37.000Z</published>
+    <updated>2020-09-14T11:42:37.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Tue Sep 15 2020 20:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架 - EJS模板引擎渲染页面。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="服务端" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
+    
+      <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
+    
+      <category term="Koa2" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2/"/>
+    
+    
+      <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
+    
+      <category term="Koa2" scheme="https://20202030.cc/tags/Koa2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Koa2基础-中间件</title>
+    <link href="https://20202030.cc/archives/80fb3e00.html"/>
+    <id>https://20202030.cc/archives/80fb3e00.html</id>
+    <published>2020-09-14T10:45:54.000Z</published>
+    <updated>2020-09-14T10:45:54.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Tue Sep 15 2020 20:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架 -中间件。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="服务端" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
+    
+      <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
+    
+      <category term="Koa2" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2/"/>
+    
+    
+      <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
+    
+      <category term="Koa2" scheme="https://20202030.cc/tags/Koa2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Koa2基础-路由</title>
+    <link href="https://20202030.cc/archives/d486a798.html"/>
+    <id>https://20202030.cc/archives/d486a798.html</id>
+    <published>2020-09-14T08:41:28.000Z</published>
+    <updated>2020-09-14T08:41:28.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Tue Sep 15 2020 20:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架 - Koa2的路由、get传值、动态路由等。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="服务端" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
+    
+      <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
+    
+      <category term="Koa2" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2/"/>
+    
+    
+      <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
+    
+      <category term="Koa2" scheme="https://20202030.cc/tags/Koa2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Koa2基础-介绍安装</title>
+    <link href="https://20202030.cc/archives/60b78ada.html"/>
+    <id>https://20202030.cc/archives/60b78ada.html</id>
+    <published>2020-09-14T07:51:14.000Z</published>
+    <updated>2020-09-14T07:51:14.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Tue Sep 15 2020 20:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架 - Koa2的介绍和安装。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="服务端" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
+    
+      <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
+    
+      <category term="Koa2" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2/"/>
+    
+    
+      <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
+    
+      <category term="Koa2" scheme="https://20202030.cc/tags/Koa2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Node基础-HTTP</title>
+    <link href="https://20202030.cc/archives/20a052b7.html"/>
+    <id>https://20202030.cc/archives/20a052b7.html</id>
+    <published>2020-09-14T03:27:01.000Z</published>
+    <updated>2020-09-14T03:27:01.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Tue Sep 15 2020 20:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node.js-HTTP模块。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="服务端" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
+    
+      <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
+    
+      <category term="基础" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/%E5%9F%BA%E7%A1%80/"/>
+    
+    
+      <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Node基础-核心基础</title>
+    <link href="https://20202030.cc/archives/ca2c17c3.html"/>
+    <id>https://20202030.cc/archives/ca2c17c3.html</id>
+    <published>2020-09-12T06:41:38.000Z</published>
+    <updated>2020-09-12T06:41:38.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Tue Sep 15 2020 20:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node.js-核心基础：事件循环、定时器、异步与回调、事件触发器。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="服务端" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
+    
+      <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
+    
+      <category term="基础" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/%E5%9F%BA%E7%A1%80/"/>
+    
+    
+      <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Node基础-NPM</title>
+    <link href="https://20202030.cc/archives/d21c35f1.html"/>
+    <id>https://20202030.cc/archives/d21c35f1.html</id>
+    <published>2020-09-11T10:31:23.000Z</published>
+    <updated>2020-09-11T10:31:23.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Tue Sep 15 2020 20:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node.js-npm包管理。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="服务端" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
+    
+      <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
+    
+      <category term="基础" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/%E5%9F%BA%E7%A1%80/"/>
+    
+    
+      <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Node-基本模块</title>
+    <link href="https://20202030.cc/archives/947d5421.html"/>
+    <id>https://20202030.cc/archives/947d5421.html</id>
+    <published>2020-09-11T03:52:51.000Z</published>
+    <updated>2020-09-11T03:52:51.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Tue Sep 15 2020 20:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node.js-基本模块：url模块、querystring模块、http模块、fs模块、path模块、events模块、global模块。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="服务端" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
+    
+      <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
+    
+      <category term="基础" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/%E5%9F%BA%E7%A1%80/"/>
+    
+    
+      <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Node基础-走进NodeJs</title>
+    <link href="https://20202030.cc/archives/ccfee0eb.html"/>
+    <id>https://20202030.cc/archives/ccfee0eb.html</id>
+    <published>2020-09-11T01:49:22.000Z</published>
+    <updated>2020-09-11T01:49:22.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Tue Sep 15 2020 20:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node.js-走进Node.js。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="服务端" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
+    
+      <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
+    
+      <category term="基础" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/%E5%9F%BA%E7%A1%80/"/>
+    
+    
+      <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>音乐小程序云08-播放器二</title>
+    <link href="https://20202030.cc/archives/de65b958.html"/>
+    <id>https://20202030.cc/archives/de65b958.html</id>
+    <published>2020-09-03T03:00:54.000Z</published>
+    <updated>2020-09-03T03:00:54.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Tue Sep 15 2020 20:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录小程序云开发学习 - 播放器。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="小程序" scheme="https://20202030.cc/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+      <category term="音乐小程序" scheme="https://20202030.cc/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/%E9%9F%B3%E4%B9%90%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+    
+      <category term="小程序" scheme="https://20202030.cc/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+      <category term="微信小程序" scheme="https://20202030.cc/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+      <category term="音乐小程序" scheme="https://20202030.cc/tags/%E9%9F%B3%E4%B9%90%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>音乐小程序云07-播放器一</title>
+    <link href="https://20202030.cc/archives/b3712307.html"/>
+    <id>https://20202030.cc/archives/b3712307.html</id>
+    <published>2020-09-02T11:21:04.000Z</published>
+    <updated>2020-09-02T11:21:04.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Tue Sep 15 2020 20:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录小程序云开发学习 - 播放器。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="小程序" scheme="https://20202030.cc/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+      <category term="音乐小程序" scheme="https://20202030.cc/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/%E9%9F%B3%E4%B9%90%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+    
+      <category term="小程序" scheme="https://20202030.cc/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+      <category term="微信小程序" scheme="https://20202030.cc/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+      <category term="音乐小程序" scheme="https://20202030.cc/tags/%E9%9F%B3%E4%B9%90%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>音乐小程序云06-歌单详情</title>
+    <link href="https://20202030.cc/archives/9fcc88f4.html"/>
+    <id>https://20202030.cc/archives/9fcc88f4.html</id>
+    <published>2020-09-01T06:51:41.000Z</published>
+    <updated>2020-09-01T06:51:41.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Tue Sep 15 2020 20:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录小程序云开发学习 - 歌单详情。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="小程序" scheme="https://20202030.cc/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+      <category term="音乐小程序" scheme="https://20202030.cc/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/%E9%9F%B3%E4%B9%90%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+    
+      <category term="小程序" scheme="https://20202030.cc/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+      <category term="微信小程序" scheme="https://20202030.cc/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+      <category term="音乐小程序" scheme="https://20202030.cc/tags/%E9%9F%B3%E4%B9%90%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>音乐小程序云05-首页渲染</title>
+    <link href="https://20202030.cc/archives/20d61b8c.html"/>
+    <id>https://20202030.cc/archives/20d61b8c.html</id>
+    <published>2020-09-01T05:31:01.000Z</published>
+    <updated>2020-09-01T05:31:01.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Tue Sep 15 2020 20:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录小程序云开发学习 - 首页渲染列表，上拉加载，下拉刷新等。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="小程序" scheme="https://20202030.cc/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+      <category term="音乐小程序" scheme="https://20202030.cc/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/%E9%9F%B3%E4%B9%90%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+    
+      <category term="小程序" scheme="https://20202030.cc/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+      <category term="微信小程序" scheme="https://20202030.cc/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+      <category term="音乐小程序" scheme="https://20202030.cc/tags/%E9%9F%B3%E4%B9%90%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>音乐小程序云04-数据云化</title>
+    <link href="https://20202030.cc/archives/be73b202.html"/>
+    <id>https://20202030.cc/archives/be73b202.html</id>
+    <published>2020-08-29T02:03:58.000Z</published>
+    <updated>2020-08-29T02:03:58.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Tue Sep 15 2020 20:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录小程序云开发学习 - 歌单数据插入云数据库。为模拟数据。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="小程序" scheme="https://20202030.cc/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+      <category term="音乐小程序" scheme="https://20202030.cc/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/%E9%9F%B3%E4%B9%90%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+    
+      <category term="小程序" scheme="https://20202030.cc/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+      <category term="微信小程序" scheme="https://20202030.cc/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+      <category term="音乐小程序" scheme="https://20202030.cc/tags/%E9%9F%B3%E4%B9%90%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+  </entry>
+  
+</feed>
