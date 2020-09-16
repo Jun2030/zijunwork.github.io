@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://20202030.cc/"/>
-  <updated>2020-09-15T11:58:25.000Z</updated>
+  <updated>2020-09-16T06:16:12.000Z</updated>
   <id>https://20202030.cc/</id>
   
   <author>
@@ -17,6 +17,60 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Koa2-API-文件目录设置</title>
+    <link href="https://20202030.cc/archives/214de851.html"/>
+    <id>https://20202030.cc/archives/214de851.html</id>
+    <published>2020-09-16T06:16:12.000Z</published>
+    <updated>2020-09-16T06:16:12.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Wed Sep 16 2020 16:17:49 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架开发API - 文件目录设置优化。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="服务端" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
+    
+      <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
+    
+      <category term="Koa2" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2/"/>
+    
+    
+      <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
+    
+      <category term="Koa2" scheme="https://20202030.cc/tags/Koa2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Koa2-API-OPTIONS请求理解和处理</title>
+    <link href="https://20202030.cc/archives/a94d8a44.html"/>
+    <id>https://20202030.cc/archives/a94d8a44.html</id>
+    <published>2020-09-15T12:34:40.591Z</published>
+    <updated>2020-09-15T12:34:40.591Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Wed Sep 16 2020 16:17:49 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架开发API - OPTIONS请求理解和处理。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="服务端" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
+    
+      <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
+    
+      <category term="Koa2" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2/"/>
+    
+    
+      <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
+    
+      <category term="Koa2" scheme="https://20202030.cc/tags/Koa2/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Koa2-API-Router和获取参数</title>
     <link href="https://20202030.cc/archives/32fb5a7e.html"/>
     <id>https://20202030.cc/archives/32fb5a7e.html</id>
@@ -25,7 +79,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Sep 15 2020 20:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架开发API - 认识RESTfulAPI和Koa。&lt;/p&gt;
+      &lt;!-- build time:Wed Sep 16 2020 16:17:49 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架开发API - 认识RESTfulAPI和Koa。&lt;/p&gt;
     
     </summary>
     
@@ -52,7 +106,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Sep 15 2020 20:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架开发API - 认识RESTfulAPI和Koa。&lt;/p&gt;
+      &lt;!-- build time:Wed Sep 16 2020 10:47:50 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架开发API - 认识RESTfulAPI和Koa。&lt;/p&gt;
     
     </summary>
     
@@ -370,7 +424,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Sep 15 2020 20:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node.js-基本模块：url模块、querystring模块、http模块、fs模块、path模块、events模块、global模块。&lt;/p&gt;
+      &lt;!-- build time:Wed Sep 16 2020 14:45:10 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node.js-基本模块：url模块、querystring模块、http模块、fs模块、path模块、events模块、global模块。&lt;/p&gt;
     
     </summary>
     
@@ -475,60 +529,6 @@
     <summary type="html">
     
       &lt;!-- build time:Tue Sep 15 2020 20:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录小程序云开发学习 - 歌单详情。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="小程序" scheme="https://20202030.cc/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
-    
-      <category term="音乐小程序" scheme="https://20202030.cc/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/%E9%9F%B3%E4%B9%90%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
-    
-    
-      <category term="小程序" scheme="https://20202030.cc/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
-    
-      <category term="微信小程序" scheme="https://20202030.cc/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
-    
-      <category term="音乐小程序" scheme="https://20202030.cc/tags/%E9%9F%B3%E4%B9%90%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>音乐小程序云05-首页渲染</title>
-    <link href="https://20202030.cc/archives/20d61b8c.html"/>
-    <id>https://20202030.cc/archives/20d61b8c.html</id>
-    <published>2020-09-01T05:31:01.000Z</published>
-    <updated>2020-09-01T05:31:01.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Tue Sep 15 2020 20:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录小程序云开发学习 - 首页渲染列表，上拉加载，下拉刷新等。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="小程序" scheme="https://20202030.cc/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
-    
-      <category term="音乐小程序" scheme="https://20202030.cc/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/%E9%9F%B3%E4%B9%90%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
-    
-    
-      <category term="小程序" scheme="https://20202030.cc/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
-    
-      <category term="微信小程序" scheme="https://20202030.cc/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
-    
-      <category term="音乐小程序" scheme="https://20202030.cc/tags/%E9%9F%B3%E4%B9%90%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>音乐小程序云04-数据云化</title>
-    <link href="https://20202030.cc/archives/be73b202.html"/>
-    <id>https://20202030.cc/archives/be73b202.html</id>
-    <published>2020-08-29T02:03:58.000Z</published>
-    <updated>2020-08-29T02:03:58.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Tue Sep 15 2020 20:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录小程序云开发学习 - 歌单数据插入云数据库。为模拟数据。&lt;/p&gt;
     
     </summary>
     
