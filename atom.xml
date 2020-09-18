@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://20202030.cc/"/>
-  <updated>2020-09-16T06:16:12.000Z</updated>
+  <updated>2020-09-18T09:58:05.000Z</updated>
   <id>https://20202030.cc/</id>
   
   <author>
@@ -17,6 +17,87 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Koa2精华-中间件整理</title>
+    <link href="https://20202030.cc/archives/598afce6.html"/>
+    <id>https://20202030.cc/archives/598afce6.html</id>
+    <published>2020-09-18T09:58:05.000Z</published>
+    <updated>2020-09-18T09:58:05.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Fri Sep 18 2020 19:42:42 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要整理常用的Koa2中间件&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="服务端" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
+    
+      <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
+    
+      <category term="Koa2" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2/"/>
+    
+    
+      <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
+    
+      <category term="Koa2" scheme="https://20202030.cc/tags/Koa2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Koa2-API-异常及参数校验</title>
+    <link href="https://20202030.cc/archives/d4297975.html"/>
+    <id>https://20202030.cc/archives/d4297975.html</id>
+    <published>2020-09-16T11:48:29.000Z</published>
+    <updated>2020-09-16T11:48:29.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Fri Sep 18 2020 19:42:42 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架开发API - 异常及参数校验。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="服务端" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
+    
+      <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
+    
+      <category term="Koa2" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2/"/>
+    
+    
+      <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
+    
+      <category term="Koa2" scheme="https://20202030.cc/tags/Koa2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Koa2-API-接口规范</title>
+    <link href="https://20202030.cc/archives/408bb72.html"/>
+    <id>https://20202030.cc/archives/408bb72.html</id>
+    <published>2020-09-16T08:25:04.000Z</published>
+    <updated>2020-09-16T08:25:04.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Fri Sep 18 2020 19:42:42 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架开发API - 接口规范。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="服务端" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
+    
+      <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
+    
+      <category term="Koa2" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2/"/>
+    
+    
+      <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
+    
+      <category term="Koa2" scheme="https://20202030.cc/tags/Koa2/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Koa2-API-文件目录设置</title>
     <link href="https://20202030.cc/archives/214de851.html"/>
     <id>https://20202030.cc/archives/214de851.html</id>
@@ -25,7 +106,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Wed Sep 16 2020 16:17:49 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架开发API - 文件目录设置优化。&lt;/p&gt;
+      &lt;!-- build time:Fri Sep 18 2020 19:42:42 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架开发API - 文件目录设置优化。&lt;/p&gt;
     
     </summary>
     
@@ -52,7 +133,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Wed Sep 16 2020 16:17:49 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架开发API - OPTIONS请求理解和处理。&lt;/p&gt;
+      &lt;!-- build time:Fri Sep 18 2020 19:42:42 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架开发API - OPTIONS请求理解和处理。&lt;/p&gt;
     
     </summary>
     
@@ -79,7 +160,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Wed Sep 16 2020 16:17:49 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架开发API - 认识RESTfulAPI和Koa。&lt;/p&gt;
+      &lt;!-- build time:Fri Sep 18 2020 19:42:42 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架开发API - 认识RESTfulAPI和Koa。&lt;/p&gt;
     
     </summary>
     
@@ -106,7 +187,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Wed Sep 16 2020 10:47:50 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架开发API - 认识RESTfulAPI和Koa。&lt;/p&gt;
+      &lt;!-- build time:Fri Sep 18 2020 19:42:42 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架开发API - 认识RESTfulAPI和Koa。&lt;/p&gt;
     
     </summary>
     
@@ -133,7 +214,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Sep 15 2020 20:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架 -跨域问题。&lt;/p&gt;
+      &lt;!-- build time:Fri Sep 18 2020 19:42:42 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架 -跨域问题。&lt;/p&gt;
     
     </summary>
     
@@ -160,7 +241,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Sep 15 2020 20:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架 - Cookie 和 Session 的使用。&lt;/p&gt;
+      &lt;!-- build time:Fri Sep 18 2020 19:42:42 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架 - Cookie 和 Session 的使用。&lt;/p&gt;
     
     </summary>
     
@@ -187,7 +268,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Sep 15 2020 20:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架 - 静态资源及 koa-static 中间件。&lt;/p&gt;
+      &lt;!-- build time:Fri Sep 18 2020 19:42:42 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架 - 静态资源及 koa-static 中间件。&lt;/p&gt;
     
     </summary>
     
@@ -214,7 +295,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Sep 15 2020 20:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架 - Post提交数据及 koa-bodyparser 中间件。&lt;/p&gt;
+      &lt;!-- build time:Fri Sep 18 2020 19:42:42 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架 - Post提交数据及 koa-bodyparser 中间件。&lt;/p&gt;
     
     </summary>
     
@@ -241,7 +322,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Sep 15 2020 20:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架 - EJS模板引擎渲染页面。&lt;/p&gt;
+      &lt;!-- build time:Fri Sep 18 2020 19:42:42 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架 - EJS模板引擎渲染页面。&lt;/p&gt;
     
     </summary>
     
@@ -268,7 +349,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Sep 15 2020 20:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架 -中间件。&lt;/p&gt;
+      &lt;!-- build time:Fri Sep 18 2020 19:42:42 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架 -中间件。&lt;/p&gt;
     
     </summary>
     
@@ -295,7 +376,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Sep 15 2020 20:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架 - Koa2的路由、get传值、动态路由等。&lt;/p&gt;
+      &lt;!-- build time:Fri Sep 18 2020 19:42:42 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架 - Koa2的路由、get传值、动态路由等。&lt;/p&gt;
     
     </summary>
     
@@ -322,7 +403,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Sep 15 2020 20:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架 - Koa2的介绍和安装。&lt;/p&gt;
+      &lt;!-- build time:Fri Sep 18 2020 19:42:42 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架 - Koa2的介绍和安装。&lt;/p&gt;
     
     </summary>
     
@@ -349,7 +430,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Sep 15 2020 20:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node.js-HTTP模块。&lt;/p&gt;
+      &lt;!-- build time:Fri Sep 18 2020 19:42:42 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node.js-HTTP模块。&lt;/p&gt;
     
     </summary>
     
@@ -374,7 +455,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Sep 15 2020 20:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node.js-核心基础：事件循环、定时器、异步与回调、事件触发器。&lt;/p&gt;
+      &lt;!-- build time:Fri Sep 18 2020 19:42:42 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node.js-核心基础：事件循环、定时器、异步与回调、事件触发器。&lt;/p&gt;
     
     </summary>
     
@@ -399,7 +480,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Sep 15 2020 20:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node.js-npm包管理。&lt;/p&gt;
+      &lt;!-- build time:Fri Sep 18 2020 19:42:42 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node.js-npm包管理。&lt;/p&gt;
     
     </summary>
     
@@ -424,7 +505,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Wed Sep 16 2020 14:45:10 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node.js-基本模块：url模块、querystring模块、http模块、fs模块、path模块、events模块、global模块。&lt;/p&gt;
+      &lt;!-- build time:Fri Sep 18 2020 19:42:42 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node.js-基本模块：url模块、querystring模块、http模块、fs模块、path模块、events模块、global模块。&lt;/p&gt;
     
     </summary>
     
@@ -449,7 +530,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Sep 15 2020 20:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node.js-走进Node.js。&lt;/p&gt;
+      &lt;!-- build time:Fri Sep 18 2020 19:42:42 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node.js-走进Node.js。&lt;/p&gt;
     
     </summary>
     
@@ -462,87 +543,6 @@
     
     
       <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>音乐小程序云08-播放器二</title>
-    <link href="https://20202030.cc/archives/de65b958.html"/>
-    <id>https://20202030.cc/archives/de65b958.html</id>
-    <published>2020-09-03T03:00:54.000Z</published>
-    <updated>2020-09-03T03:00:54.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Tue Sep 15 2020 20:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录小程序云开发学习 - 播放器。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="小程序" scheme="https://20202030.cc/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
-    
-      <category term="音乐小程序" scheme="https://20202030.cc/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/%E9%9F%B3%E4%B9%90%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
-    
-    
-      <category term="小程序" scheme="https://20202030.cc/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
-    
-      <category term="微信小程序" scheme="https://20202030.cc/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
-    
-      <category term="音乐小程序" scheme="https://20202030.cc/tags/%E9%9F%B3%E4%B9%90%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>音乐小程序云07-播放器一</title>
-    <link href="https://20202030.cc/archives/b3712307.html"/>
-    <id>https://20202030.cc/archives/b3712307.html</id>
-    <published>2020-09-02T11:21:04.000Z</published>
-    <updated>2020-09-02T11:21:04.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Tue Sep 15 2020 20:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录小程序云开发学习 - 播放器。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="小程序" scheme="https://20202030.cc/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
-    
-      <category term="音乐小程序" scheme="https://20202030.cc/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/%E9%9F%B3%E4%B9%90%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
-    
-    
-      <category term="小程序" scheme="https://20202030.cc/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
-    
-      <category term="微信小程序" scheme="https://20202030.cc/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
-    
-      <category term="音乐小程序" scheme="https://20202030.cc/tags/%E9%9F%B3%E4%B9%90%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>音乐小程序云06-歌单详情</title>
-    <link href="https://20202030.cc/archives/9fcc88f4.html"/>
-    <id>https://20202030.cc/archives/9fcc88f4.html</id>
-    <published>2020-09-01T06:51:41.000Z</published>
-    <updated>2020-09-01T06:51:41.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Tue Sep 15 2020 20:26:53 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录小程序云开发学习 - 歌单详情。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="小程序" scheme="https://20202030.cc/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
-    
-      <category term="音乐小程序" scheme="https://20202030.cc/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/%E9%9F%B3%E4%B9%90%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
-    
-    
-      <category term="小程序" scheme="https://20202030.cc/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
-    
-      <category term="微信小程序" scheme="https://20202030.cc/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
-    
-      <category term="音乐小程序" scheme="https://20202030.cc/tags/%E9%9F%B3%E4%B9%90%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
     
   </entry>
   
