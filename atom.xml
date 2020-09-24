@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://20202030.cc/"/>
-  <updated>2020-09-18T09:58:05.000Z</updated>
+  <updated>2020-09-22T09:36:38.000Z</updated>
   <id>https://20202030.cc/</id>
   
   <author>
@@ -17,15 +17,15 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Koa2精华-中间件整理</title>
-    <link href="https://20202030.cc/archives/598afce6.html"/>
-    <id>https://20202030.cc/archives/598afce6.html</id>
-    <published>2020-09-18T09:58:05.000Z</published>
-    <updated>2020-09-18T09:58:05.000Z</updated>
+    <title>Koa框架12-Ctx属性</title>
+    <link href="https://20202030.cc/archives/e56e4cc1.html"/>
+    <id>https://20202030.cc/archives/e56e4cc1.html</id>
+    <published>2020-09-22T09:36:38.000Z</published>
+    <updated>2020-09-22T09:36:38.000Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Fri Sep 18 2020 19:42:42 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要整理常用的Koa2中间件&lt;/p&gt;
+      &lt;!-- build time:Thu Sep 24 2020 19:32:31 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Koa框架12-Ctx属性。&lt;/p&gt;
     
     </summary>
     
@@ -34,7 +34,331 @@
     
       <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
     
-      <category term="Koa2" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2/"/>
+      <category term="Koa2框架" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2%E6%A1%86%E6%9E%B6/"/>
+    
+    
+      <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
+    
+      <category term="Koa2" scheme="https://20202030.cc/tags/Koa2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Koa框架11-Ctx对象</title>
+    <link href="https://20202030.cc/archives/bb191b29.html"/>
+    <id>https://20202030.cc/archives/bb191b29.html</id>
+    <published>2020-09-22T06:53:51.000Z</published>
+    <updated>2020-09-22T06:53:51.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Thu Sep 24 2020 19:32:31 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Koa框架11-Ctx对象。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="服务端" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
+    
+      <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
+    
+      <category term="Koa2框架" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2%E6%A1%86%E6%9E%B6/"/>
+    
+    
+      <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
+    
+      <category term="Koa2" scheme="https://20202030.cc/tags/Koa2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Koa框架10-Router和错误处理</title>
+    <link href="https://20202030.cc/archives/59b197dc.html"/>
+    <id>https://20202030.cc/archives/59b197dc.html</id>
+    <published>2020-09-22T06:32:58.000Z</published>
+    <updated>2020-09-22T06:32:58.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Thu Sep 24 2020 19:32:31 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Koa框架10-router和错误处理。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="服务端" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
+    
+      <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
+    
+      <category term="Koa2框架" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2%E6%A1%86%E6%9E%B6/"/>
+    
+    
+      <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
+    
+      <category term="Koa2" scheme="https://20202030.cc/tags/Koa2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Koa框架09-框架了解</title>
+    <link href="https://20202030.cc/archives/adc719df.html"/>
+    <id>https://20202030.cc/archives/adc719df.html</id>
+    <published>2020-09-22T05:52:19.000Z</published>
+    <updated>2020-09-22T05:52:19.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Thu Sep 24 2020 19:32:31 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Koa框架09-框架了解。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="服务端" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
+    
+      <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
+    
+      <category term="Koa2框架" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2%E6%A1%86%E6%9E%B6/"/>
+    
+    
+      <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
+    
+      <category term="Koa2" scheme="https://20202030.cc/tags/Koa2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Koa框架08-Mysql</title>
+    <link href="https://20202030.cc/archives/c775a4d5.html"/>
+    <id>https://20202030.cc/archives/c775a4d5.html</id>
+    <published>2020-09-21T09:08:22.000Z</published>
+    <updated>2020-09-21T09:08:22.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Thu Sep 24 2020 19:32:31 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Koa框架08-Mysql。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="服务端" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
+    
+      <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
+    
+      <category term="Koa2框架" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2%E6%A1%86%E6%9E%B6/"/>
+    
+    
+      <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
+    
+      <category term="Koa2" scheme="https://20202030.cc/tags/Koa2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Koa框架07-CookieSession</title>
+    <link href="https://20202030.cc/archives/11c3e06f.html"/>
+    <id>https://20202030.cc/archives/11c3e06f.html</id>
+    <published>2020-09-21T09:01:59.000Z</published>
+    <updated>2020-09-21T09:01:59.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Thu Sep 24 2020 19:32:31 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Koa框架07-Cookie、Session。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="服务端" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
+    
+      <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
+    
+      <category term="Koa2框架" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2%E6%A1%86%E6%9E%B6/"/>
+    
+    
+      <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
+    
+      <category term="Koa2" scheme="https://20202030.cc/tags/Koa2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Koa框架06-Http</title>
+    <link href="https://20202030.cc/archives/902cb571.html"/>
+    <id>https://20202030.cc/archives/902cb571.html</id>
+    <published>2020-09-21T08:37:39.000Z</published>
+    <updated>2020-09-21T08:37:39.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Thu Sep 24 2020 19:32:31 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Koa框架06-Http。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="服务端" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
+    
+      <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
+    
+      <category term="Koa2框架" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2%E6%A1%86%E6%9E%B6/"/>
+    
+    
+      <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
+    
+      <category term="Koa2" scheme="https://20202030.cc/tags/Koa2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Koa框架05-Npm</title>
+    <link href="https://20202030.cc/archives/dfe8fbff.html"/>
+    <id>https://20202030.cc/archives/dfe8fbff.html</id>
+    <published>2020-09-21T08:26:23.000Z</published>
+    <updated>2020-09-21T08:26:23.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Thu Sep 24 2020 19:32:31 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Koa框架04-Npm、node_modules、package。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="服务端" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
+    
+      <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
+    
+      <category term="Koa2框架" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2%E6%A1%86%E6%9E%B6/"/>
+    
+    
+      <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
+    
+      <category term="Koa2" scheme="https://20202030.cc/tags/Koa2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Koa框架04-模块系统</title>
+    <link href="https://20202030.cc/archives/59b810e2.html"/>
+    <id>https://20202030.cc/archives/59b810e2.html</id>
+    <published>2020-09-21T08:06:21.000Z</published>
+    <updated>2020-09-21T08:06:21.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Thu Sep 24 2020 19:32:31 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Koa框架04-模块系统。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="服务端" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
+    
+      <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
+    
+      <category term="Koa2框架" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2%E6%A1%86%E6%9E%B6/"/>
+    
+    
+      <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
+    
+      <category term="Koa2" scheme="https://20202030.cc/tags/Koa2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Koa框架03-AsyncAwait</title>
+    <link href="https://20202030.cc/archives/a506c370.html"/>
+    <id>https://20202030.cc/archives/a506c370.html</id>
+    <published>2020-09-21T07:50:39.000Z</published>
+    <updated>2020-09-21T07:50:39.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Thu Sep 24 2020 19:32:31 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Koa框架03-Async、Await。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="服务端" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
+    
+      <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
+    
+      <category term="Koa2框架" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2%E6%A1%86%E6%9E%B6/"/>
+    
+    
+      <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
+    
+      <category term="Koa2" scheme="https://20202030.cc/tags/Koa2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Koa框架02-Generator</title>
+    <link href="https://20202030.cc/archives/b1128a26.html"/>
+    <id>https://20202030.cc/archives/b1128a26.html</id>
+    <published>2020-09-21T06:54:16.000Z</published>
+    <updated>2020-09-21T06:54:16.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Thu Sep 24 2020 19:32:31 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Koa框架02-Generator、Yield。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="服务端" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
+    
+      <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
+    
+      <category term="Koa2框架" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2%E6%A1%86%E6%9E%B6/"/>
+    
+    
+      <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
+    
+      <category term="Koa2" scheme="https://20202030.cc/tags/Koa2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Koa框架01-Promise</title>
+    <link href="https://20202030.cc/archives/2c9ed71a.html"/>
+    <id>https://20202030.cc/archives/2c9ed71a.html</id>
+    <published>2020-09-21T03:11:21.000Z</published>
+    <updated>2020-09-21T03:11:21.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Thu Sep 24 2020 19:32:31 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Koa框架01-Promise。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="服务端" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
+    
+      <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
+    
+      <category term="Koa2框架" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2%E6%A1%86%E6%9E%B6/"/>
+    
+    
+      <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
+    
+      <category term="Koa2" scheme="https://20202030.cc/tags/Koa2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Koa2基础-中间件整理</title>
+    <link href="https://20202030.cc/archives/598afce6.html"/>
+    <id>https://20202030.cc/archives/598afce6.html</id>
+    <published>2020-09-18T09:58:05.000Z</published>
+    <updated>2020-09-18T09:58:05.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Thu Sep 24 2020 19:32:31 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要整理常用的Koa2中间件&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="服务端" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
+    
+      <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
+    
+      <category term="Koa2基础" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2%E5%9F%BA%E7%A1%80/"/>
     
     
       <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
@@ -52,7 +376,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri Sep 18 2020 19:42:42 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架开发API - 异常及参数校验。&lt;/p&gt;
+      &lt;!-- build time:Thu Sep 24 2020 19:32:31 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架开发API - 异常及参数校验。&lt;/p&gt;
     
     </summary>
     
@@ -61,7 +385,7 @@
     
       <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
     
-      <category term="Koa2" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2/"/>
+      <category term="Koa2Api" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2Api/"/>
     
     
       <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
@@ -79,7 +403,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri Sep 18 2020 19:42:42 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架开发API - 接口规范。&lt;/p&gt;
+      &lt;!-- build time:Thu Sep 24 2020 19:32:31 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架开发API - 接口规范。&lt;/p&gt;
     
     </summary>
     
@@ -88,7 +412,7 @@
     
       <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
     
-      <category term="Koa2" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2/"/>
+      <category term="Koa2Api" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2Api/"/>
     
     
       <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
@@ -106,7 +430,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri Sep 18 2020 19:42:42 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架开发API - 文件目录设置优化。&lt;/p&gt;
+      &lt;!-- build time:Thu Sep 24 2020 19:32:31 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架开发API - 文件目录设置优化。&lt;/p&gt;
     
     </summary>
     
@@ -115,7 +439,7 @@
     
       <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
     
-      <category term="Koa2" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2/"/>
+      <category term="Koa2Api" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2Api/"/>
     
     
       <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
@@ -133,7 +457,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri Sep 18 2020 19:42:42 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架开发API - OPTIONS请求理解和处理。&lt;/p&gt;
+      &lt;!-- build time:Thu Sep 24 2020 19:32:31 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架开发API - OPTIONS请求理解和处理。&lt;/p&gt;
     
     </summary>
     
@@ -142,7 +466,7 @@
     
       <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
     
-      <category term="Koa2" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2/"/>
+      <category term="Koa2Api" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2Api/"/>
     
     
       <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
@@ -160,7 +484,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri Sep 18 2020 19:42:42 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架开发API - 认识RESTfulAPI和Koa。&lt;/p&gt;
+      &lt;!-- build time:Thu Sep 24 2020 19:32:31 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架开发API - 认识RESTfulAPI和Koa。&lt;/p&gt;
     
     </summary>
     
@@ -169,7 +493,7 @@
     
       <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
     
-      <category term="Koa2" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2/"/>
+      <category term="Koa2Api" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2Api/"/>
     
     
       <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
@@ -187,7 +511,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri Sep 18 2020 19:42:42 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架开发API - 认识RESTfulAPI和Koa。&lt;/p&gt;
+      &lt;!-- build time:Thu Sep 24 2020 19:32:31 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架开发API - 认识RESTfulAPI和Koa。&lt;/p&gt;
     
     </summary>
     
@@ -196,7 +520,7 @@
     
       <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
     
-      <category term="Koa2" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2/"/>
+      <category term="Koa2Api" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2Api/"/>
     
     
       <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
@@ -214,7 +538,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri Sep 18 2020 19:42:42 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架 -跨域问题。&lt;/p&gt;
+      &lt;!-- build time:Thu Sep 24 2020 19:32:31 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架 -跨域问题。&lt;/p&gt;
     
     </summary>
     
@@ -223,326 +547,12 @@
     
       <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
     
-      <category term="Koa2" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2/"/>
+      <category term="Koa2基础" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2%E5%9F%BA%E7%A1%80/"/>
     
     
       <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
     
       <category term="Koa2" scheme="https://20202030.cc/tags/Koa2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Koa2基础-Cookie</title>
-    <link href="https://20202030.cc/archives/a016f7f2.html"/>
-    <id>https://20202030.cc/archives/a016f7f2.html</id>
-    <published>2020-09-15T06:51:27.000Z</published>
-    <updated>2020-09-15T06:51:27.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Fri Sep 18 2020 19:42:42 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架 - Cookie 和 Session 的使用。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="服务端" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
-    
-      <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
-    
-      <category term="Koa2" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2/"/>
-    
-    
-      <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
-    
-      <category term="Koa2" scheme="https://20202030.cc/tags/Koa2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Koa2基础-静态资源</title>
-    <link href="https://20202030.cc/archives/1e91a300.html"/>
-    <id>https://20202030.cc/archives/1e91a300.html</id>
-    <published>2020-09-14T12:05:48.000Z</published>
-    <updated>2020-09-14T12:05:48.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Fri Sep 18 2020 19:42:42 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架 - 静态资源及 koa-static 中间件。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="服务端" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
-    
-      <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
-    
-      <category term="Koa2" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2/"/>
-    
-    
-      <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
-    
-      <category term="Koa2" scheme="https://20202030.cc/tags/Koa2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Koa2基础-POST数据</title>
-    <link href="https://20202030.cc/archives/d4ef4e4f.html"/>
-    <id>https://20202030.cc/archives/d4ef4e4f.html</id>
-    <published>2020-09-14T11:43:37.000Z</published>
-    <updated>2020-09-14T11:43:37.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Fri Sep 18 2020 19:42:42 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架 - Post提交数据及 koa-bodyparser 中间件。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="服务端" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
-    
-      <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
-    
-      <category term="Koa2" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2/"/>
-    
-    
-      <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
-    
-      <category term="Koa2" scheme="https://20202030.cc/tags/Koa2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Koa2基础-EJS</title>
-    <link href="https://20202030.cc/archives/a89f95ce.html"/>
-    <id>https://20202030.cc/archives/a89f95ce.html</id>
-    <published>2020-09-14T11:42:37.000Z</published>
-    <updated>2020-09-14T11:42:37.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Fri Sep 18 2020 19:42:42 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架 - EJS模板引擎渲染页面。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="服务端" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
-    
-      <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
-    
-      <category term="Koa2" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2/"/>
-    
-    
-      <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
-    
-      <category term="Koa2" scheme="https://20202030.cc/tags/Koa2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Koa2基础-中间件</title>
-    <link href="https://20202030.cc/archives/80fb3e00.html"/>
-    <id>https://20202030.cc/archives/80fb3e00.html</id>
-    <published>2020-09-14T10:45:54.000Z</published>
-    <updated>2020-09-14T10:45:54.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Fri Sep 18 2020 19:42:42 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架 -中间件。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="服务端" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
-    
-      <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
-    
-      <category term="Koa2" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2/"/>
-    
-    
-      <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
-    
-      <category term="Koa2" scheme="https://20202030.cc/tags/Koa2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Koa2基础-路由</title>
-    <link href="https://20202030.cc/archives/d486a798.html"/>
-    <id>https://20202030.cc/archives/d486a798.html</id>
-    <published>2020-09-14T08:41:28.000Z</published>
-    <updated>2020-09-14T08:41:28.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Fri Sep 18 2020 19:42:42 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架 - Koa2的路由、get传值、动态路由等。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="服务端" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
-    
-      <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
-    
-      <category term="Koa2" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2/"/>
-    
-    
-      <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
-    
-      <category term="Koa2" scheme="https://20202030.cc/tags/Koa2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Koa2基础-介绍安装</title>
-    <link href="https://20202030.cc/archives/60b78ada.html"/>
-    <id>https://20202030.cc/archives/60b78ada.html</id>
-    <published>2020-09-14T07:51:14.000Z</published>
-    <updated>2020-09-14T07:51:14.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Fri Sep 18 2020 19:42:42 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node框架 - Koa2的介绍和安装。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="服务端" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
-    
-      <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
-    
-      <category term="Koa2" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2/"/>
-    
-    
-      <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
-    
-      <category term="Koa2" scheme="https://20202030.cc/tags/Koa2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Node基础-HTTP</title>
-    <link href="https://20202030.cc/archives/20a052b7.html"/>
-    <id>https://20202030.cc/archives/20a052b7.html</id>
-    <published>2020-09-14T03:27:01.000Z</published>
-    <updated>2020-09-14T03:27:01.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Fri Sep 18 2020 19:42:42 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node.js-HTTP模块。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="服务端" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
-    
-      <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
-    
-      <category term="基础" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/%E5%9F%BA%E7%A1%80/"/>
-    
-    
-      <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Node基础-核心基础</title>
-    <link href="https://20202030.cc/archives/ca2c17c3.html"/>
-    <id>https://20202030.cc/archives/ca2c17c3.html</id>
-    <published>2020-09-12T06:41:38.000Z</published>
-    <updated>2020-09-12T06:41:38.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Fri Sep 18 2020 19:42:42 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node.js-核心基础：事件循环、定时器、异步与回调、事件触发器。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="服务端" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
-    
-      <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
-    
-      <category term="基础" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/%E5%9F%BA%E7%A1%80/"/>
-    
-    
-      <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Node基础-NPM</title>
-    <link href="https://20202030.cc/archives/d21c35f1.html"/>
-    <id>https://20202030.cc/archives/d21c35f1.html</id>
-    <published>2020-09-11T10:31:23.000Z</published>
-    <updated>2020-09-11T10:31:23.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Fri Sep 18 2020 19:42:42 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node.js-npm包管理。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="服务端" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
-    
-      <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
-    
-      <category term="基础" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/%E5%9F%BA%E7%A1%80/"/>
-    
-    
-      <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Node-基本模块</title>
-    <link href="https://20202030.cc/archives/947d5421.html"/>
-    <id>https://20202030.cc/archives/947d5421.html</id>
-    <published>2020-09-11T03:52:51.000Z</published>
-    <updated>2020-09-11T03:52:51.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Fri Sep 18 2020 19:42:42 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node.js-基本模块：url模块、querystring模块、http模块、fs模块、path模块、events模块、global模块。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="服务端" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
-    
-      <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
-    
-      <category term="基础" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/%E5%9F%BA%E7%A1%80/"/>
-    
-    
-      <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Node基础-走进NodeJs</title>
-    <link href="https://20202030.cc/archives/ccfee0eb.html"/>
-    <id>https://20202030.cc/archives/ccfee0eb.html</id>
-    <published>2020-09-11T01:49:22.000Z</published>
-    <updated>2020-09-11T01:49:22.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Fri Sep 18 2020 19:42:42 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Node.js-走进Node.js。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="服务端" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
-    
-      <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
-    
-      <category term="基础" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/%E5%9F%BA%E7%A1%80/"/>
-    
-    
-      <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
     
   </entry>
   
