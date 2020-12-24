@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://20202030.cc/"/>
-  <updated>2020-11-11T07:42:31.000Z</updated>
+  <updated>2020-12-24T06:57:32.000Z</updated>
   <id>https://20202030.cc/</id>
   
   <author>
@@ -17,6 +17,131 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Vue3从零开始集成-5-项目结构优化</title>
+    <link href="https://20202030.cc/archives/8a67031.html"/>
+    <id>https://20202030.cc/archives/8a67031.html</id>
+    <published>2020-12-24T06:57:32.000Z</published>
+    <updated>2020-12-24T06:57:32.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Thu Dec 24 2020 15:01:39 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录-Vue3从零开始集成-5-项目结构优化。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Vue" scheme="https://20202030.cc/categories/Vue/"/>
+    
+      <category term="Vue3" scheme="https://20202030.cc/categories/Vue/Vue3/"/>
+    
+    
+      <category term="Vue3" scheme="https://20202030.cc/tags/Vue3/"/>
+    
+      <category term="从零开始集成" scheme="https://20202030.cc/tags/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E9%9B%86%E6%88%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vue3从零开始集成-4-优化打包配置</title>
+    <link href="https://20202030.cc/archives/425f733.html"/>
+    <id>https://20202030.cc/archives/425f733.html</id>
+    <published>2020-12-23T11:27:15.000Z</published>
+    <updated>2020-12-23T11:27:15.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Thu Dec 24 2020 15:01:39 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录-Vue3从零开始集成-4-优化打包配置。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Vue" scheme="https://20202030.cc/categories/Vue/"/>
+    
+      <category term="Vue3" scheme="https://20202030.cc/categories/Vue/Vue3/"/>
+    
+    
+      <category term="Vue3" scheme="https://20202030.cc/tags/Vue3/"/>
+    
+      <category term="从零开始集成" scheme="https://20202030.cc/tags/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E9%9B%86%E6%88%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vue3从零开始集成-3-配置环境变量</title>
+    <link href="https://20202030.cc/archives/e56151a0.html"/>
+    <id>https://20202030.cc/archives/e56151a0.html</id>
+    <published>2020-12-23T11:12:26.000Z</published>
+    <updated>2020-12-23T11:12:26.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Thu Dec 24 2020 15:01:39 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录-Vue3从零开始集成-3-配置环境变量。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Vue" scheme="https://20202030.cc/categories/Vue/"/>
+    
+      <category term="Vue3" scheme="https://20202030.cc/categories/Vue/Vue3/"/>
+    
+    
+      <category term="Vue3" scheme="https://20202030.cc/tags/Vue3/"/>
+    
+      <category term="从零开始集成" scheme="https://20202030.cc/tags/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E9%9B%86%E6%88%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vue3从零开始集成-2-代码风格配置</title>
+    <link href="https://20202030.cc/archives/e36c6932.html"/>
+    <id>https://20202030.cc/archives/e36c6932.html</id>
+    <published>2020-12-23T09:51:52.000Z</published>
+    <updated>2020-12-23T09:51:52.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Thu Dec 24 2020 15:01:39 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录-Vue3从零开始集成-2-代码风格配置。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Vue" scheme="https://20202030.cc/categories/Vue/"/>
+    
+      <category term="Vue3" scheme="https://20202030.cc/categories/Vue/Vue3/"/>
+    
+    
+      <category term="Vue3" scheme="https://20202030.cc/tags/Vue3/"/>
+    
+      <category term="从零开始集成" scheme="https://20202030.cc/tags/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E9%9B%86%E6%88%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vue3从零开始集成-1-环境配置</title>
+    <link href="https://20202030.cc/archives/bc8bc7a3.html"/>
+    <id>https://20202030.cc/archives/bc8bc7a3.html</id>
+    <published>2020-12-23T07:59:20.000Z</published>
+    <updated>2020-12-23T07:59:20.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Thu Dec 24 2020 15:01:39 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录-Vue3从零开始集成-1-环境配置。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Vue" scheme="https://20202030.cc/categories/Vue/"/>
+    
+      <category term="Vue3" scheme="https://20202030.cc/categories/Vue/Vue3/"/>
+    
+    
+      <category term="Vue3" scheme="https://20202030.cc/tags/Vue3/"/>
+    
+      <category term="从零开始集成" scheme="https://20202030.cc/tags/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E9%9B%86%E6%88%90/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Vue3TS教程-Vue3新特性</title>
     <link href="https://20202030.cc/archives/4727a7f8.html"/>
     <id>https://20202030.cc/archives/4727a7f8.html</id>
@@ -25,7 +150,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri Nov 13 2020 15:13:04 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Vue3TS教程-Vue3新特性。&lt;/p&gt;
+      &lt;!-- build time:Thu Dec 24 2020 15:01:39 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Vue3TS教程-Vue3新特性。&lt;/p&gt;
     
     </summary>
     
@@ -50,7 +175,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri Nov 13 2020 15:13:04 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Vue3TS教程-TpyeScript-1。&lt;/p&gt;
+      &lt;!-- build time:Thu Dec 24 2020 15:01:39 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Vue3TS教程-TpyeScript。&lt;/p&gt;
     
     </summary>
     
@@ -75,7 +200,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri Nov 13 2020 15:13:04 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Vue3基础-CompositionAPI。&lt;/p&gt;
+      &lt;!-- build time:Thu Dec 24 2020 15:01:39 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Vue3基础-CompositionAPI。&lt;/p&gt;
     
     </summary>
     
@@ -100,7 +225,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri Nov 13 2020 15:13:04 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Vue3基础-组件。&lt;/p&gt;
+      &lt;!-- build time:Thu Dec 24 2020 15:01:39 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Vue3基础-组件。&lt;/p&gt;
     
     </summary>
     
@@ -125,7 +250,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri Nov 13 2020 15:13:04 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Vue3基础-安装。&lt;/p&gt;
+      &lt;!-- build time:Thu Dec 24 2020 15:01:39 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Vue3基础-安装。&lt;/p&gt;
     
     </summary>
     
@@ -150,7 +275,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri Nov 13 2020 15:13:04 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录-Koa开启本地Vue预览服务。&lt;/p&gt;
+      &lt;!-- build time:Thu Dec 24 2020 15:01:39 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录-Koa开启本地Vue预览服务。&lt;/p&gt;
     
     </summary>
     
@@ -175,7 +300,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri Nov 13 2020 15:13:04 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Koa框架17-框架设计。&lt;/p&gt;
+      &lt;!-- build time:Thu Dec 24 2020 15:01:39 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Koa框架17-框架设计。&lt;/p&gt;
     
     </summary>
     
@@ -202,7 +327,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri Nov 13 2020 15:13:04 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Koa框架16-GetPost文件上传。&lt;/p&gt;
+      &lt;!-- build time:Thu Dec 24 2020 15:01:39 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Koa框架16-GetPost文件上传。&lt;/p&gt;
     
     </summary>
     
@@ -229,7 +354,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri Nov 13 2020 15:13:04 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Koa框架15-Static静态资源。&lt;/p&gt;
+      &lt;!-- build time:Thu Dec 24 2020 15:01:39 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Koa框架15-Static静态资源。&lt;/p&gt;
     
     </summary>
     
@@ -256,7 +381,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri Nov 13 2020 15:13:04 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Koa框架14-路由参数重定向嵌套。&lt;/p&gt;
+      &lt;!-- build time:Thu Dec 24 2020 15:01:39 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Koa框架14-路由参数重定向嵌套。&lt;/p&gt;
     
     </summary>
     
@@ -283,7 +408,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri Nov 13 2020 15:13:04 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Koa框架13-路由方法。&lt;/p&gt;
+      &lt;!-- build time:Thu Dec 24 2020 15:01:39 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Koa框架13-路由方法。&lt;/p&gt;
     
     </summary>
     
@@ -310,7 +435,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri Nov 13 2020 15:13:04 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Koa框架12-Ctx属性。&lt;/p&gt;
+      &lt;!-- build time:Thu Dec 24 2020 15:01:39 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Koa框架12-Ctx属性。&lt;/p&gt;
     
     </summary>
     
@@ -337,7 +462,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri Nov 13 2020 15:13:04 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Koa框架11-Ctx对象。&lt;/p&gt;
+      &lt;!-- build time:Thu Dec 24 2020 15:01:39 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Koa框架11-Ctx对象。&lt;/p&gt;
     
     </summary>
     
@@ -364,7 +489,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri Nov 13 2020 15:13:04 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Koa框架10-router和错误处理。&lt;/p&gt;
+      &lt;!-- build time:Thu Dec 24 2020 15:01:39 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Koa框架10-router和错误处理。&lt;/p&gt;
     
     </summary>
     
@@ -391,142 +516,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri Nov 13 2020 15:13:04 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Koa框架09-框架了解。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="服务端" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
-    
-      <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
-    
-      <category term="Koa2框架" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2%E6%A1%86%E6%9E%B6/"/>
-    
-    
-      <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
-    
-      <category term="Koa2" scheme="https://20202030.cc/tags/Koa2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Koa框架08-Mysql</title>
-    <link href="https://20202030.cc/archives/c775a4d5.html"/>
-    <id>https://20202030.cc/archives/c775a4d5.html</id>
-    <published>2020-09-21T09:08:22.000Z</published>
-    <updated>2020-09-21T09:08:22.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Fri Nov 13 2020 15:13:04 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Koa框架08-Mysql。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="服务端" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
-    
-      <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
-    
-      <category term="Koa2框架" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2%E6%A1%86%E6%9E%B6/"/>
-    
-    
-      <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
-    
-      <category term="Koa2" scheme="https://20202030.cc/tags/Koa2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Koa框架07-CookieSession</title>
-    <link href="https://20202030.cc/archives/11c3e06f.html"/>
-    <id>https://20202030.cc/archives/11c3e06f.html</id>
-    <published>2020-09-21T09:01:59.000Z</published>
-    <updated>2020-09-21T09:01:59.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Fri Nov 13 2020 15:13:04 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Koa框架07-Cookie、Session。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="服务端" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
-    
-      <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
-    
-      <category term="Koa2框架" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2%E6%A1%86%E6%9E%B6/"/>
-    
-    
-      <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
-    
-      <category term="Koa2" scheme="https://20202030.cc/tags/Koa2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Koa框架06-Http</title>
-    <link href="https://20202030.cc/archives/902cb571.html"/>
-    <id>https://20202030.cc/archives/902cb571.html</id>
-    <published>2020-09-21T08:37:39.000Z</published>
-    <updated>2020-09-21T08:37:39.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Fri Nov 13 2020 15:13:04 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Koa框架06-Http。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="服务端" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
-    
-      <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
-    
-      <category term="Koa2框架" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2%E6%A1%86%E6%9E%B6/"/>
-    
-    
-      <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
-    
-      <category term="Koa2" scheme="https://20202030.cc/tags/Koa2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Koa框架05-Npm</title>
-    <link href="https://20202030.cc/archives/dfe8fbff.html"/>
-    <id>https://20202030.cc/archives/dfe8fbff.html</id>
-    <published>2020-09-21T08:26:23.000Z</published>
-    <updated>2020-09-21T08:26:23.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Fri Nov 13 2020 15:13:04 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Koa框架04-Npm、node_modules、package。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="服务端" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
-    
-      <category term="Node" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/"/>
-    
-      <category term="Koa2框架" scheme="https://20202030.cc/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/Node/Koa2%E6%A1%86%E6%9E%B6/"/>
-    
-    
-      <category term="Node" scheme="https://20202030.cc/tags/Node/"/>
-    
-      <category term="Koa2" scheme="https://20202030.cc/tags/Koa2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Koa框架04-模块系统</title>
-    <link href="https://20202030.cc/archives/59b810e2.html"/>
-    <id>https://20202030.cc/archives/59b810e2.html</id>
-    <published>2020-09-21T08:06:21.000Z</published>
-    <updated>2020-09-21T08:06:21.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Fri Nov 13 2020 15:13:04 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Koa框架04-模块系统。&lt;/p&gt;
+      &lt;!-- build time:Thu Dec 24 2020 15:01:39 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本篇主要记录Koa框架09-框架了解。&lt;/p&gt;
     
     </summary>
     
